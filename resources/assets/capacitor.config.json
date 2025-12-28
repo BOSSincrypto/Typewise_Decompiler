@@ -1,0 +1,23 @@
+{
+	"appId": "ch.icoaching.ionic",
+	"appName": "typewise",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 5000,
+			"launchAutoHide": false,
+			"backgroundColor": "#f7f7f7",
+			"androidSplashResourceName": "splash",
+			"androidScaleType": "CENTER_CROP",
+			"showSpinner": false,
+			"splashFullScreen": false,
+			"splashImmersive": false
+		},
+		"LocalNotifications": {
+			"smallIcon": "ic_stat_notifications_white",
+			"iconColor": "#000000",
+			"sound": "beep.wav"
+		}
+	}
+}
