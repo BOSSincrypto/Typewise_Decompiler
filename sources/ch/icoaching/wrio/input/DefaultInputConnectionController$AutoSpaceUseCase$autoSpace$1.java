@@ -1,0 +1,32 @@
+package ch.icoaching.wrio.input;
+
+import ch.icoaching.wrio.input.DefaultInputConnectionController;
+import kotlin.Metadata;
+import kotlin.coroutines.c;
+import kotlin.coroutines.jvm.internal.ContinuationImpl;
+import kotlin.coroutines.jvm.internal.d;
+
+@d(c = "ch.icoaching.wrio.input.DefaultInputConnectionController$AutoSpaceUseCase", f = "DefaultInputConnectionController.kt", l = {1747}, m = "autoSpace")
+@Metadata(k = 3, mv = {2, 0, 0}, xi = 48)
+final class DefaultInputConnectionController$AutoSpaceUseCase$autoSpace$1 extends ContinuationImpl {
+    int I$0;
+    int I$1;
+    Object L$0;
+    boolean Z$0;
+    boolean Z$1;
+    int label;
+    /* synthetic */ Object result;
+    final /* synthetic */ DefaultInputConnectionController.AutoSpaceUseCase this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    DefaultInputConnectionController$AutoSpaceUseCase$autoSpace$1(DefaultInputConnectionController.AutoSpaceUseCase autoSpaceUseCase, c<? super DefaultInputConnectionController$AutoSpaceUseCase$autoSpace$1> cVar) {
+        super(cVar);
+        this.this$0 = autoSpaceUseCase;
+    }
+
+    public final Object invokeSuspend(Object obj) {
+        this.result = obj;
+        this.label |= Integer.MIN_VALUE;
+        return this.this$0.d(false, false, this);
+    }
+}
