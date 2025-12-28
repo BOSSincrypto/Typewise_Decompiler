@@ -1,0 +1,5956 @@
+{
+  "smileys_people": [
+    {
+      "icon": "😀"
+    },
+    {
+      "icon": "😃"
+    },
+    {
+      "icon": "😄"
+    },
+    {
+      "icon": "😁"
+    },
+    {
+      "icon": "😆"
+    },
+    {
+      "icon": "😅"
+    },
+    {
+      "icon": "🤣"
+    },
+    {
+      "icon": "😂"
+    },
+    {
+      "icon": "🙂"
+    },
+    {
+      "icon": "🙃"
+    },
+    {
+      "icon": "🫠"
+    },
+    {
+      "icon": "😉"
+    },
+    {
+      "icon": "😊"
+    },
+    {
+      "icon": "😇"
+    },
+    {
+      "icon": "🥰"
+    },
+    {
+      "icon": "😍"
+    },
+    {
+      "icon": "🤩"
+    },
+    {
+      "icon": "😘"
+    },
+    {
+      "icon": "😗"
+    },
+    {
+      "icon": "☺️"
+    },
+    {
+      "icon": "😚"
+    },
+    {
+      "icon": "😙"
+    },
+    {
+      "icon": "🥲"
+    },
+    {
+      "icon": "😋"
+    },
+    {
+      "icon": "😛"
+    },
+    {
+      "icon": "😜"
+    },
+    {
+      "icon": "🤪"
+    },
+    {
+      "icon": "😝"
+    },
+    {
+      "icon": "🤑"
+    },
+    {
+      "icon": "🤗"
+    },
+    {
+      "icon": "🤭"
+    },
+    {
+      "icon": "🫢"
+    },
+    {
+      "icon": "🫣"
+    },
+    {
+      "icon": "🤫"
+    },
+    {
+      "icon": "🤔"
+    },
+    {
+      "icon": "🫡"
+    },
+    {
+      "icon": "🤐"
+    },
+    {
+      "icon": "🤨"
+    },
+    {
+      "icon": "😐"
+    },
+    {
+      "icon": "😑"
+    },
+    {
+      "icon": "😶"
+    },
+    {
+      "icon": "🫥"
+    },
+    {
+      "icon": "😶‍🌫️"
+    },
+    {
+      "icon": "😏"
+    },
+    {
+      "icon": "😒"
+    },
+    {
+      "icon": "🙄"
+    },
+    {
+      "icon": "😬"
+    },
+    {
+      "icon": "😮‍💨"
+    },
+    {
+      "icon": "🤥"
+    },
+    {
+      "icon": "🫨"
+    },
+    {
+      "icon": "😌"
+    },
+    {
+      "icon": "😔"
+    },
+    {
+      "icon": "😪"
+    },
+    {
+      "icon": "🤤"
+    },
+    {
+      "icon": "😴"
+    },
+    {
+      "icon": "😷"
+    },
+    {
+      "icon": "🤒"
+    },
+    {
+      "icon": "🤕"
+    },
+    {
+      "icon": "🤢"
+    },
+    {
+      "icon": "🤮"
+    },
+    {
+      "icon": "🤧"
+    },
+    {
+      "icon": "🥵"
+    },
+    {
+      "icon": "🥶"
+    },
+    {
+      "icon": "🥴"
+    },
+    {
+      "icon": "😵"
+    },
+    {
+      "icon": "😵‍💫"
+    },
+    {
+      "icon": "🤯"
+    },
+    {
+      "icon": "🤠"
+    },
+    {
+      "icon": "🥳"
+    },
+    {
+      "icon": "🥸"
+    },
+    {
+      "icon": "😎"
+    },
+    {
+      "icon": "🤓"
+    },
+    {
+      "icon": "🧐"
+    },
+    {
+      "icon": "😕"
+    },
+    {
+      "icon": "🫤"
+    },
+    {
+      "icon": "😟"
+    },
+    {
+      "icon": "🙁"
+    },
+    {
+      "icon": "☹️"
+    },
+    {
+      "icon": "😮"
+    },
+    {
+      "icon": "😯"
+    },
+    {
+      "icon": "😲"
+    },
+    {
+      "icon": "😳"
+    },
+    {
+      "icon": "🥺"
+    },
+    {
+      "icon": "🥹"
+    },
+    {
+      "icon": "😦"
+    },
+    {
+      "icon": "😧"
+    },
+    {
+      "icon": "😨"
+    },
+    {
+      "icon": "😰"
+    },
+    {
+      "icon": "😥"
+    },
+    {
+      "icon": "😢"
+    },
+    {
+      "icon": "😭"
+    },
+    {
+      "icon": "😱"
+    },
+    {
+      "icon": "😖"
+    },
+    {
+      "icon": "😣"
+    },
+    {
+      "icon": "😞"
+    },
+    {
+      "icon": "😓"
+    },
+    {
+      "icon": "😩"
+    },
+    {
+      "icon": "😫"
+    },
+    {
+      "icon": "🥱"
+    },
+    {
+      "icon": "😤"
+    },
+    {
+      "icon": "😡"
+    },
+    {
+      "icon": "😠"
+    },
+    {
+      "icon": "🤬"
+    },
+    {
+      "icon": "😈"
+    },
+    {
+      "icon": "👿"
+    },
+    {
+      "icon": "💀"
+    },
+    {
+      "icon": "☠️"
+    },
+    {
+      "icon": "💩"
+    },
+    {
+      "icon": "🤡"
+    },
+    {
+      "icon": "👹"
+    },
+    {
+      "icon": "👺"
+    },
+    {
+      "icon": "👻"
+    },
+    {
+      "icon": "👽"
+    },
+    {
+      "icon": "👾"
+    },
+    {
+      "icon": "🤖"
+    },
+    {
+      "icon": "😺"
+    },
+    {
+      "icon": "😸"
+    },
+    {
+      "icon": "😹"
+    },
+    {
+      "icon": "😻"
+    },
+    {
+      "icon": "😼"
+    },
+    {
+      "icon": "😽"
+    },
+    {
+      "icon": "🙀"
+    },
+    {
+      "icon": "😿"
+    },
+    {
+      "icon": "😾"
+    },
+    {
+      "icon": "🙈"
+    },
+    {
+      "icon": "🙉"
+    },
+    {
+      "icon": "🙊"
+    },
+    {
+      "icon": "💌"
+    },
+    {
+      "icon": "💘"
+    },
+    {
+      "icon": "💝"
+    },
+    {
+      "icon": "💖"
+    },
+    {
+      "icon": "💗"
+    },
+    {
+      "icon": "💓"
+    },
+    {
+      "icon": "💞"
+    },
+    {
+      "icon": "💕"
+    },
+    {
+      "icon": "💟"
+    },
+    {
+      "icon": "❣️"
+    },
+    {
+      "icon": "💔"
+    },
+    {
+      "icon": "❤️‍🔥"
+    },
+    {
+      "icon": "❤️‍🩹"
+    },
+    {
+      "icon": "❤️"
+    },
+    {
+      "icon": "🩷"
+    },
+    {
+      "icon": "🧡"
+    },
+    {
+      "icon": "💛"
+    },
+    {
+      "icon": "💚"
+    },
+    {
+      "icon": "💙"
+    },
+    {
+      "icon": "🩵"
+    },
+    {
+      "icon": "💜"
+    },
+    {
+      "icon": "🤎"
+    },
+    {
+      "icon": "🖤"
+    },
+    {
+      "icon": "🩶"
+    },
+    {
+      "icon": "🤍"
+    },
+    {
+      "icon": "💋"
+    },
+    {
+      "icon": "💯"
+    },
+    {
+      "icon": "💢"
+    },
+    {
+      "icon": "💥"
+    },
+    {
+      "icon": "💫"
+    },
+    {
+      "icon": "💦"
+    },
+    {
+      "icon": "💨"
+    },
+    {
+      "icon": "🕳️"
+    },
+    {
+      "icon": "💬"
+    },
+    {
+      "icon": "👁️‍🗨️"
+    },
+    {
+      "icon": "🗨️"
+    },
+    {
+      "icon": "🗯️"
+    },
+    {
+      "icon": "💭"
+    },
+    {
+      "icon": "💤"
+    },
+    {
+      "icon": "👋",
+      "skintones": true
+    },
+    {
+      "icon": "🤚",
+      "skintones": true
+    },
+    {
+      "icon": "🖐️",
+      "skintones": true
+    },
+    {
+      "icon": "✋",
+      "skintones": true
+    },
+    {
+      "icon": "🖖",
+      "skintones": true
+    },
+    {
+      "icon": "🫱",
+      "skintones": true
+    },
+    {
+      "icon": "🫲",
+      "skintones": true
+    },
+    {
+      "icon": "🫳",
+      "skintones": true
+    },
+    {
+      "icon": "🫴",
+      "skintones": true
+    },
+    {
+      "icon": "🫷",
+      "skintones": true
+    },
+    {
+      "icon": "🫸",
+      "skintones": true
+    },
+    {
+      "icon": "👌",
+      "skintones": true
+    },
+    {
+      "icon": "🤌",
+      "skintones": true
+    },
+    {
+      "icon": "🤏",
+      "skintones": true
+    },
+    {
+      "icon": "✌️",
+      "skintones": true
+    },
+    {
+      "icon": "🤞",
+      "skintones": true
+    },
+    {
+      "icon": "🫰",
+      "skintones": true
+    },
+    {
+      "icon": "🤟",
+      "skintones": true
+    },
+    {
+      "icon": "🤘",
+      "skintones": true
+    },
+    {
+      "icon": "🤙",
+      "skintones": true
+    },
+    {
+      "icon": "👈",
+      "skintones": true
+    },
+    {
+      "icon": "👉",
+      "skintones": true
+    },
+    {
+      "icon": "👆",
+      "skintones": true
+    },
+    {
+      "icon": "🖕",
+      "skintones": true
+    },
+    {
+      "icon": "👇",
+      "skintones": true
+    },
+    {
+      "icon": "☝️",
+      "skintones": true
+    },
+    {
+      "icon": "🫵",
+      "skintones": true
+    },
+    {
+      "icon": "👍",
+      "skintones": true
+    },
+    {
+      "icon": "👎",
+      "skintones": true
+    },
+    {
+      "icon": "✊",
+      "skintones": true
+    },
+    {
+      "icon": "👊",
+      "skintones": true
+    },
+    {
+      "icon": "🤛",
+      "skintones": true
+    },
+    {
+      "icon": "🤜",
+      "skintones": true
+    },
+    {
+      "icon": "👏",
+      "skintones": true
+    },
+    {
+      "icon": "🙌",
+      "skintones": true
+    },
+    {
+      "icon": "🫶",
+      "skintones": true
+    },
+    {
+      "icon": "👐",
+      "skintones": true
+    },
+    {
+      "icon": "🤲",
+      "skintones": true
+    },
+    {
+      "icon": "🤝",
+      "skintones": true
+    },
+    {
+      "icon": "🙏",
+      "skintones": true
+    },
+    {
+      "icon": "✍️",
+      "skintones": true
+    },
+    {
+      "icon": "💅",
+      "skintones": true
+    },
+    {
+      "icon": "🤳",
+      "skintones": true
+    },
+    {
+      "icon": "💪",
+      "skintones": true
+    },
+    {
+      "icon": "🦾"
+    },
+    {
+      "icon": "🦿"
+    },
+    {
+      "icon": "🦵",
+      "skintones": true
+    },
+    {
+      "icon": "🦶",
+      "skintones": true
+    },
+    {
+      "icon": "👂",
+      "skintones": true
+    },
+    {
+      "icon": "🦻",
+      "skintones": true
+    },
+    {
+      "icon": "👃",
+      "skintones": true
+    },
+    {
+      "icon": "🧠"
+    },
+    {
+      "icon": "🫀"
+    },
+    {
+      "icon": "🫁"
+    },
+    {
+      "icon": "🦷"
+    },
+    {
+      "icon": "🦴"
+    },
+    {
+      "icon": "👀"
+    },
+    {
+      "icon": "👁️"
+    },
+    {
+      "icon": "👅"
+    },
+    {
+      "icon": "👄"
+    },
+    {
+      "icon": "🫦"
+    },
+    {
+      "icon": "👶",
+      "skintones": true
+    },
+    {
+      "icon": "🧒",
+      "skintones": true
+    },
+    {
+      "icon": "👦",
+      "skintones": true
+    },
+    {
+      "icon": "👧",
+      "skintones": true
+    },
+    {
+      "icon": "🧑",
+      "skintones": true
+    },
+    {
+      "icon": "👱",
+      "skintones": true
+    },
+    {
+      "icon": "👨",
+      "skintones": true
+    },
+    {
+      "icon": "🧔",
+      "skintones": true
+    },
+    {
+      "icon": "🧔‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧔‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🦰",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🦱",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🦳",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🦲",
+      "skintones": true
+    },
+    {
+      "icon": "👩",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🦰",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🦰",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🦱",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🦱",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🦳",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🦳",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🦲",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🦲",
+      "skintones": true
+    },
+    {
+      "icon": "👱‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "👱‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧓",
+      "skintones": true
+    },
+    {
+      "icon": "👴",
+      "skintones": true
+    },
+    {
+      "icon": "👵",
+      "skintones": true
+    },
+    {
+      "icon": "🙍",
+      "skintones": true
+    },
+    {
+      "icon": "🙍‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🙍‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🙎",
+      "skintones": true
+    },
+    {
+      "icon": "🙎‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🙎‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🙅",
+      "skintones": true
+    },
+    {
+      "icon": "🙅‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🙅‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🙆",
+      "skintones": true
+    },
+    {
+      "icon": "🙆‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🙆‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "💁",
+      "skintones": true
+    },
+    {
+      "icon": "💁‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "💁‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🙋",
+      "skintones": true
+    },
+    {
+      "icon": "🙋‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🙋‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧏",
+      "skintones": true
+    },
+    {
+      "icon": "🧏‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧏‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🙇",
+      "skintones": true
+    },
+    {
+      "icon": "🙇‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🙇‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤦",
+      "skintones": true
+    },
+    {
+      "icon": "🤦‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🤦‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤷",
+      "skintones": true
+    },
+    {
+      "icon": "🤷‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🤷‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍⚕️",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍⚕️",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍⚕️",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🎓",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🎓",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🎓",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🏫",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🏫",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🏫",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍⚖️",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍⚖️",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍⚖️",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🌾",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🌾",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🌾",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🍳",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🍳",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🍳",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🔧",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🔧",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🔧",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🏭",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🏭",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🏭",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍💼",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍💼",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍💼",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🔬",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🔬",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🔬",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍💻",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍💻",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍💻",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🎤",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🎤",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🎤",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🎨",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🎨",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🎨",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍✈️",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍✈️",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍✈️",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🚀",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🚀",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🚀",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🚒",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🚒",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🚒",
+      "skintones": true
+    },
+    {
+      "icon": "👮",
+      "skintones": true
+    },
+    {
+      "icon": "👮‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "👮‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🕵️",
+      "skintones": true
+    },
+    {
+      "icon": "🕵️‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🕵️‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "💂",
+      "skintones": true
+    },
+    {
+      "icon": "💂‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "💂‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🥷",
+      "skintones": true
+    },
+    {
+      "icon": "👷",
+      "skintones": true
+    },
+    {
+      "icon": "👷‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "👷‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🫅",
+      "skintones": true
+    },
+    {
+      "icon": "🤴",
+      "skintones": true
+    },
+    {
+      "icon": "👸",
+      "skintones": true
+    },
+    {
+      "icon": "👳",
+      "skintones": true
+    },
+    {
+      "icon": "👳‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "👳‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "👲",
+      "skintones": true
+    },
+    {
+      "icon": "🧕",
+      "skintones": true
+    },
+    {
+      "icon": "🤵",
+      "skintones": true
+    },
+    {
+      "icon": "🤵‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🤵‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "👰",
+      "skintones": true
+    },
+    {
+      "icon": "👰‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "👰‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤰",
+      "skintones": true
+    },
+    {
+      "icon": "🫃",
+      "skintones": true
+    },
+    {
+      "icon": "🫄",
+      "skintones": true
+    },
+    {
+      "icon": "🤱",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🍼",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🍼",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🍼",
+      "skintones": true
+    },
+    {
+      "icon": "👼",
+      "skintones": true
+    },
+    {
+      "icon": "🎅",
+      "skintones": true
+    },
+    {
+      "icon": "🤶",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🎄",
+      "skintones": true
+    },
+    {
+      "icon": "🦸",
+      "skintones": true
+    },
+    {
+      "icon": "🦸‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🦸‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🦹",
+      "skintones": true
+    },
+    {
+      "icon": "🦹‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🦹‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧙",
+      "skintones": true
+    },
+    {
+      "icon": "🧙‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧙‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧚",
+      "skintones": true
+    },
+    {
+      "icon": "🧚‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧚‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧛",
+      "skintones": true
+    },
+    {
+      "icon": "🧛‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧛‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧜",
+      "skintones": true
+    },
+    {
+      "icon": "🧜‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧜‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧝",
+      "skintones": true
+    },
+    {
+      "icon": "🧝‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧝‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧞"
+    },
+    {
+      "icon": "🧞‍♂️"
+    },
+    {
+      "icon": "🧞‍♀️"
+    },
+    {
+      "icon": "🧟"
+    },
+    {
+      "icon": "🧟‍♂️"
+    },
+    {
+      "icon": "🧟‍♀️"
+    },
+    {
+      "icon": "🧌"
+    },
+    {
+      "icon": "💆",
+      "skintones": true
+    },
+    {
+      "icon": "💆‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "💆‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "💇",
+      "skintones": true
+    },
+    {
+      "icon": "💇‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "💇‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🚶",
+      "skintones": true
+    },
+    {
+      "icon": "🚶‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🚶‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧍",
+      "skintones": true
+    },
+    {
+      "icon": "🧍‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧍‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧎",
+      "skintones": true
+    },
+    {
+      "icon": "🧎‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧎‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🦯",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🦯",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🦯",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🦼",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🦼",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🦼",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🦽",
+      "skintones": true
+    },
+    {
+      "icon": "👨‍🦽",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍🦽",
+      "skintones": true
+    },
+    {
+      "icon": "🏃",
+      "skintones": true
+    },
+    {
+      "icon": "🏃‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🏃‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "💃",
+      "skintones": true
+    },
+    {
+      "icon": "🕺",
+      "skintones": true
+    },
+    {
+      "icon": "🕴️",
+      "skintones": true
+    },
+    {
+      "icon": "👯"
+    },
+    {
+      "icon": "👯‍♂️"
+    },
+    {
+      "icon": "👯‍♀️"
+    },
+    {
+      "icon": "🧖",
+      "skintones": true
+    },
+    {
+      "icon": "🧖‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧖‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧗",
+      "skintones": true
+    },
+    {
+      "icon": "🧗‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧗‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤺"
+    },
+    {
+      "icon": "🏇",
+      "skintones": true
+    },
+    {
+      "icon": "⛷️"
+    },
+    {
+      "icon": "🏂️",
+      "skintones": true
+    },
+    {
+      "icon": "🏌️",
+      "skintones": true
+    },
+    {
+      "icon": "🏌️‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🏌️‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🏄",
+      "skintones": true
+    },
+    {
+      "icon": "🏄‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🏄‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🚣",
+      "skintones": true
+    },
+    {
+      "icon": "🚣‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🚣‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🏊",
+      "skintones": true
+    },
+    {
+      "icon": "🏊‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🏊‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "⛹️",
+      "skintones": true
+    },
+    {
+      "icon": "⛹️‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "⛹️‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🏋️",
+      "skintones": true
+    },
+    {
+      "icon": "🏋️‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🏋️‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🚴",
+      "skintones": true
+    },
+    {
+      "icon": "🚴‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🚴‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🚵",
+      "skintones": true
+    },
+    {
+      "icon": "🚵‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🚵‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤸",
+      "skintones": true
+    },
+    {
+      "icon": "🤸‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🤸‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤼"
+    },
+    {
+      "icon": "🤼‍♂️"
+    },
+    {
+      "icon": "🤼‍♀️"
+    },
+    {
+      "icon": "🤽",
+      "skintones": true
+    },
+    {
+      "icon": "🤽‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🤽‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤾",
+      "skintones": true
+    },
+    {
+      "icon": "🤾‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🤾‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🤹",
+      "skintones": true
+    },
+    {
+      "icon": "🤹‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🤹‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🧘",
+      "skintones": true
+    },
+    {
+      "icon": "🧘‍♂️",
+      "skintones": true
+    },
+    {
+      "icon": "🧘‍♀️",
+      "skintones": true
+    },
+    {
+      "icon": "🛀",
+      "skintones": true
+    },
+    {
+      "icon": "🛌",
+      "skintones": true
+    },
+    {
+      "icon": "🧑‍🤝‍🧑",
+      "twoSkintones": true
+    },
+    {
+      "icon": "👭",
+      "skintones": true
+    },
+    {
+      "icon": "👫",
+      "skintones": true
+    },
+    {
+      "icon": "👬",
+      "skintones": true
+    },
+    {
+      "icon": "💏",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍❤️‍💋‍👨",
+      "twoSkintones": true
+    },
+    {
+      "icon": "👨‍❤️‍💋‍👨",
+      "twoSkintones": true
+    },
+    {
+      "icon": "👩‍❤️‍💋‍👩",
+      "twoSkintones": true
+    },
+    {
+      "icon": "💑",
+      "skintones": true
+    },
+    {
+      "icon": "👩‍❤️‍👨",
+      "twoSkintones": true
+    },
+    {
+      "icon": "👨‍❤️‍👨",
+      "twoSkintones": true
+    },
+    {
+      "icon": "👩‍❤️‍👩",
+      "twoSkintones": true
+    },
+    {
+      "icon": "👪️"
+    },
+    {
+      "icon": "👨‍👩‍👦"
+    },
+    {
+      "icon": "👨‍👩‍👧"
+    },
+    {
+      "icon": "👨‍👩‍👧‍👦"
+    },
+    {
+      "icon": "👨‍👩‍👦‍👦"
+    },
+    {
+      "icon": "👨‍👩‍👧‍👧"
+    },
+    {
+      "icon": "👨‍👨‍👦"
+    },
+    {
+      "icon": "👨‍👨‍👧"
+    },
+    {
+      "icon": "👨‍👨‍👧‍👦"
+    },
+    {
+      "icon": "👨‍👨‍👦‍👦"
+    },
+    {
+      "icon": "👨‍👨‍👧‍👧"
+    },
+    {
+      "icon": "👩‍👩‍👦"
+    },
+    {
+      "icon": "👩‍👩‍👧"
+    },
+    {
+      "icon": "👩‍👩‍👧‍👦"
+    },
+    {
+      "icon": "👩‍👩‍👦‍👦"
+    },
+    {
+      "icon": "👩‍👩‍👧‍👧"
+    },
+    {
+      "icon": "👨‍👦"
+    },
+    {
+      "icon": "👨‍👦‍👦"
+    },
+    {
+      "icon": "👨‍👧"
+    },
+    {
+      "icon": "👨‍👧‍👦"
+    },
+    {
+      "icon": "👨‍👧‍👧"
+    },
+    {
+      "icon": "👩‍👦"
+    },
+    {
+      "icon": "👩‍👦‍👦"
+    },
+    {
+      "icon": "👩‍👧"
+    },
+    {
+      "icon": "👩‍👧‍👦"
+    },
+    {
+      "icon": "👩‍👧‍👧"
+    },
+    {
+      "icon": "🗣️"
+    },
+    {
+      "icon": "👤"
+    },
+    {
+      "icon": "👥"
+    },
+    {
+      "icon": "🫂"
+    },
+    {
+      "icon": "👣"
+    }
+  ],
+  "objects_symbols": [
+    {
+      "icon": "🏻"
+    },
+    {
+      "icon": "🏼"
+    },
+    {
+      "icon": "🏽"
+    },
+    {
+      "icon": "🏾"
+    },
+    {
+      "icon": "🏿"
+    },
+    {
+      "icon": "🦰"
+    },
+    {
+      "icon": "🦱"
+    },
+    {
+      "icon": "🦳"
+    },
+    {
+      "icon": "🦲"
+    },
+    {
+      "icon": "👓"
+    },
+    {
+      "icon": "🕶️"
+    },
+    {
+      "icon": "🥽"
+    },
+    {
+      "icon": "🥼"
+    },
+    {
+      "icon": "🦺"
+    },
+    {
+      "icon": "👔"
+    },
+    {
+      "icon": "👕"
+    },
+    {
+      "icon": "👖"
+    },
+    {
+      "icon": "🧣"
+    },
+    {
+      "icon": "🧤"
+    },
+    {
+      "icon": "🧥"
+    },
+    {
+      "icon": "🧦"
+    },
+    {
+      "icon": "👗"
+    },
+    {
+      "icon": "👘"
+    },
+    {
+      "icon": "🥻"
+    },
+    {
+      "icon": "🩱"
+    },
+    {
+      "icon": "🩲"
+    },
+    {
+      "icon": "🩳"
+    },
+    {
+      "icon": "👙"
+    },
+    {
+      "icon": "👚"
+    },
+    {
+      "icon": "🪭"
+    },
+    {
+      "icon": "👛"
+    },
+    {
+      "icon": "👜"
+    },
+    {
+      "icon": "👝"
+    },
+    {
+      "icon": "🛍️"
+    },
+    {
+      "icon": "🎒"
+    },
+    {
+      "icon": "🩴"
+    },
+    {
+      "icon": "👞"
+    },
+    {
+      "icon": "👟"
+    },
+    {
+      "icon": "🥾"
+    },
+    {
+      "icon": "🥿"
+    },
+    {
+      "icon": "👠"
+    },
+    {
+      "icon": "👡"
+    },
+    {
+      "icon": "🩰"
+    },
+    {
+      "icon": "👢"
+    },
+    {
+      "icon": "🪮"
+    },
+    {
+      "icon": "👑"
+    },
+    {
+      "icon": "👒"
+    },
+    {
+      "icon": "🎩"
+    },
+    {
+      "icon": "🎓"
+    },
+    {
+      "icon": "🧢"
+    },
+    {
+      "icon": "🪖"
+    },
+    {
+      "icon": "⛑️"
+    },
+    {
+      "icon": "📿"
+    },
+    {
+      "icon": "💄"
+    },
+    {
+      "icon": "💍"
+    },
+    {
+      "icon": "💎"
+    },
+    {
+      "icon": "🔇"
+    },
+    {
+      "icon": "🔈"
+    },
+    {
+      "icon": "🔉"
+    },
+    {
+      "icon": "🔊"
+    },
+    {
+      "icon": "📢"
+    },
+    {
+      "icon": "📣"
+    },
+    {
+      "icon": "📯"
+    },
+    {
+      "icon": "🔔"
+    },
+    {
+      "icon": "🔕"
+    },
+    {
+      "icon": "🎼"
+    },
+    {
+      "icon": "🎵"
+    },
+    {
+      "icon": "🎶"
+    },
+    {
+      "icon": "🎙️"
+    },
+    {
+      "icon": "🎚️"
+    },
+    {
+      "icon": "🎛️"
+    },
+    {
+      "icon": "🎤"
+    },
+    {
+      "icon": "🎧"
+    },
+    {
+      "icon": "📻"
+    },
+    {
+      "icon": "🎷"
+    },
+    {
+      "icon": "🪗"
+    },
+    {
+      "icon": "🎸"
+    },
+    {
+      "icon": "🎹"
+    },
+    {
+      "icon": "🎺"
+    },
+    {
+      "icon": "🎻"
+    },
+    {
+      "icon": "🪕"
+    },
+    {
+      "icon": "🥁"
+    },
+    {
+      "icon": "🪘"
+    },
+    {
+      "icon": "🪇"
+    },
+    {
+      "icon": "🪈"
+    },
+    {
+      "icon": "📱"
+    },
+    {
+      "icon": "📲"
+    },
+    {
+      "icon": "☎️"
+    },
+    {
+      "icon": "📞"
+    },
+    {
+      "icon": "📟"
+    },
+    {
+      "icon": "📠"
+    },
+    {
+      "icon": "🔋"
+    },
+    {
+      "icon": "🪫"
+    },
+    {
+      "icon": "🔌"
+    },
+    {
+      "icon": "💻"
+    },
+    {
+      "icon": "🖥️"
+    },
+    {
+      "icon": "🖨️"
+    },
+    {
+      "icon": "⌨️"
+    },
+    {
+      "icon": "🖱️"
+    },
+    {
+      "icon": "🖲️"
+    },
+    {
+      "icon": "💽"
+    },
+    {
+      "icon": "💾"
+    },
+    {
+      "icon": "💿"
+    },
+    {
+      "icon": "📀"
+    },
+    {
+      "icon": "🧮"
+    },
+    {
+      "icon": "🎥"
+    },
+    {
+      "icon": "🎞️"
+    },
+    {
+      "icon": "📽️"
+    },
+    {
+      "icon": "🎬"
+    },
+    {
+      "icon": "📺"
+    },
+    {
+      "icon": "📷"
+    },
+    {
+      "icon": "📸"
+    },
+    {
+      "icon": "📹"
+    },
+    {
+      "icon": "📼"
+    },
+    {
+      "icon": "🔍"
+    },
+    {
+      "icon": "🔎"
+    },
+    {
+      "icon": "🕯️"
+    },
+    {
+      "icon": "💡"
+    },
+    {
+      "icon": "🔦"
+    },
+    {
+      "icon": "🏮"
+    },
+    {
+      "icon": "🪔"
+    },
+    {
+      "icon": "📔"
+    },
+    {
+      "icon": "📕"
+    },
+    {
+      "icon": "📖"
+    },
+    {
+      "icon": "📗"
+    },
+    {
+      "icon": "📘"
+    },
+    {
+      "icon": "📙"
+    },
+    {
+      "icon": "📚"
+    },
+    {
+      "icon": "📓"
+    },
+    {
+      "icon": "📒"
+    },
+    {
+      "icon": "📃"
+    },
+    {
+      "icon": "📜"
+    },
+    {
+      "icon": "📄"
+    },
+    {
+      "icon": "📰"
+    },
+    {
+      "icon": "🗞️"
+    },
+    {
+      "icon": "📑"
+    },
+    {
+      "icon": "🔖"
+    },
+    {
+      "icon": "🏷️"
+    },
+    {
+      "icon": "💰"
+    },
+    {
+      "icon": "🪙"
+    },
+    {
+      "icon": "💴"
+    },
+    {
+      "icon": "💵"
+    },
+    {
+      "icon": "💶"
+    },
+    {
+      "icon": "💷"
+    },
+    {
+      "icon": "💸"
+    },
+    {
+      "icon": "💳"
+    },
+    {
+      "icon": "🧾"
+    },
+    {
+      "icon": "💹"
+    },
+    {
+      "icon": "✉️"
+    },
+    {
+      "icon": "📧"
+    },
+    {
+      "icon": "📨"
+    },
+    {
+      "icon": "📩"
+    },
+    {
+      "icon": "📤"
+    },
+    {
+      "icon": "📥"
+    },
+    {
+      "icon": "📦"
+    },
+    {
+      "icon": "📫"
+    },
+    {
+      "icon": "📪"
+    },
+    {
+      "icon": "📬"
+    },
+    {
+      "icon": "📭"
+    },
+    {
+      "icon": "📮"
+    },
+    {
+      "icon": "🗳️"
+    },
+    {
+      "icon": "✏️"
+    },
+    {
+      "icon": "✒️"
+    },
+    {
+      "icon": "🖋️"
+    },
+    {
+      "icon": "🖊️"
+    },
+    {
+      "icon": "🖌️"
+    },
+    {
+      "icon": "🖍️"
+    },
+    {
+      "icon": "📝"
+    },
+    {
+      "icon": "💼"
+    },
+    {
+      "icon": "📁"
+    },
+    {
+      "icon": "📂"
+    },
+    {
+      "icon": "🗂️"
+    },
+    {
+      "icon": "📅"
+    },
+    {
+      "icon": "📆"
+    },
+    {
+      "icon": "🗒️"
+    },
+    {
+      "icon": "🗓️"
+    },
+    {
+      "icon": "📇"
+    },
+    {
+      "icon": "📈"
+    },
+    {
+      "icon": "📉"
+    },
+    {
+      "icon": "📊"
+    },
+    {
+      "icon": "📋"
+    },
+    {
+      "icon": "📌"
+    },
+    {
+      "icon": "📍"
+    },
+    {
+      "icon": "📎"
+    },
+    {
+      "icon": "🖇️"
+    },
+    {
+      "icon": "📏"
+    },
+    {
+      "icon": "📐"
+    },
+    {
+      "icon": "✂️"
+    },
+    {
+      "icon": "🗃️"
+    },
+    {
+      "icon": "🗄️"
+    },
+    {
+      "icon": "🗑️"
+    },
+    {
+      "icon": "🔒"
+    },
+    {
+      "icon": "🔓"
+    },
+    {
+      "icon": "🔏"
+    },
+    {
+      "icon": "🔐"
+    },
+    {
+      "icon": "🔑"
+    },
+    {
+      "icon": "🗝️"
+    },
+    {
+      "icon": "🔨"
+    },
+    {
+      "icon": "🪓"
+    },
+    {
+      "icon": "⛏️"
+    },
+    {
+      "icon": "⚒️"
+    },
+    {
+      "icon": "🛠️"
+    },
+    {
+      "icon": "🗡️"
+    },
+    {
+      "icon": "⚔️"
+    },
+    {
+      "icon": "💣"
+    },
+    {
+      "icon": "🪃"
+    },
+    {
+      "icon": "🏹"
+    },
+    {
+      "icon": "🛡️"
+    },
+    {
+      "icon": "🪚"
+    },
+    {
+      "icon": "🔧"
+    },
+    {
+      "icon": "🪛"
+    },
+    {
+      "icon": "🔩"
+    },
+    {
+      "icon": "⚙️"
+    },
+    {
+      "icon": "🗜️"
+    },
+    {
+      "icon": "⚖️"
+    },
+    {
+      "icon": "🦯"
+    },
+    {
+      "icon": "🔗"
+    },
+    {
+      "icon": "⛓️"
+    },
+    {
+      "icon": "🪝"
+    },
+    {
+      "icon": "🧰"
+    },
+    {
+      "icon": "🧲"
+    },
+    {
+      "icon": "🪜"
+    },
+    {
+      "icon": "⚗️"
+    },
+    {
+      "icon": "🧪"
+    },
+    {
+      "icon": "🧫"
+    },
+    {
+      "icon": "🧬"
+    },
+    {
+      "icon": "🔬"
+    },
+    {
+      "icon": "🔭"
+    },
+    {
+      "icon": "📡"
+    },
+    {
+      "icon": "💉"
+    },
+    {
+      "icon": "🩸"
+    },
+    {
+      "icon": "💊"
+    },
+    {
+      "icon": "🩹"
+    },
+    {
+      "icon": "🩼"
+    },
+    {
+      "icon": "🩺"
+    },
+    {
+      "icon": "🩻"
+    },
+    {
+      "icon": "🚪"
+    },
+    {
+      "icon": "🛗"
+    },
+    {
+      "icon": "🪞"
+    },
+    {
+      "icon": "🪟"
+    },
+    {
+      "icon": "🛏️"
+    },
+    {
+      "icon": "🛋️"
+    },
+    {
+      "icon": "🪑"
+    },
+    {
+      "icon": "🚽"
+    },
+    {
+      "icon": "🪠"
+    },
+    {
+      "icon": "🚿"
+    },
+    {
+      "icon": "🛁"
+    },
+    {
+      "icon": "🪤"
+    },
+    {
+      "icon": "🪒"
+    },
+    {
+      "icon": "🧴"
+    },
+    {
+      "icon": "🧷"
+    },
+    {
+      "icon": "🧹"
+    },
+    {
+      "icon": "🧺"
+    },
+    {
+      "icon": "🧻"
+    },
+    {
+      "icon": "🪣"
+    },
+    {
+      "icon": "🧼"
+    },
+    {
+      "icon": "🫧"
+    },
+    {
+      "icon": "🪥"
+    },
+    {
+      "icon": "🧽"
+    },
+    {
+      "icon": "🧯"
+    },
+    {
+      "icon": "🛒"
+    },
+    {
+      "icon": "🚬"
+    },
+    {
+      "icon": "⚰️"
+    },
+    {
+      "icon": "🪦"
+    },
+    {
+      "icon": "⚱️"
+    },
+    {
+      "icon": "🧿"
+    },
+    {
+      "icon": "🪬"
+    },
+    {
+      "icon": "🗿"
+    },
+    {
+      "icon": "🪧"
+    },
+    {
+      "icon": "🪪"
+    },
+    {
+      "icon": "🏧"
+    },
+    {
+      "icon": "🚮"
+    },
+    {
+      "icon": "🚰"
+    },
+    {
+      "icon": "♿️"
+    },
+    {
+      "icon": "🚹"
+    },
+    {
+      "icon": "🚺"
+    },
+    {
+      "icon": "🚻"
+    },
+    {
+      "icon": "🚼"
+    },
+    {
+      "icon": "🚾"
+    },
+    {
+      "icon": "🛂"
+    },
+    {
+      "icon": "🛃"
+    },
+    {
+      "icon": "🛄"
+    },
+    {
+      "icon": "🛅"
+    },
+    {
+      "icon": "⚠️"
+    },
+    {
+      "icon": "🚸"
+    },
+    {
+      "icon": "⛔"
+    },
+    {
+      "icon": "🚫"
+    },
+    {
+      "icon": "🚳"
+    },
+    {
+      "icon": "🚭"
+    },
+    {
+      "icon": "🚯"
+    },
+    {
+      "icon": "🚱"
+    },
+    {
+      "icon": "🚷"
+    },
+    {
+      "icon": "📵"
+    },
+    {
+      "icon": "🔞"
+    },
+    {
+      "icon": "☢️"
+    },
+    {
+      "icon": "☣️"
+    },
+    {
+      "icon": "⬆️"
+    },
+    {
+      "icon": "↗️"
+    },
+    {
+      "icon": "➡️"
+    },
+    {
+      "icon": "↘️"
+    },
+    {
+      "icon": "⬇️"
+    },
+    {
+      "icon": "↙️"
+    },
+    {
+      "icon": "⬅️"
+    },
+    {
+      "icon": "↖️"
+    },
+    {
+      "icon": "↕️"
+    },
+    {
+      "icon": "↔️"
+    },
+    {
+      "icon": "↩️"
+    },
+    {
+      "icon": "↪️"
+    },
+    {
+      "icon": "⤴️"
+    },
+    {
+      "icon": "⤵️"
+    },
+    {
+      "icon": "🔃"
+    },
+    {
+      "icon": "🔄"
+    },
+    {
+      "icon": "🔙"
+    },
+    {
+      "icon": "🔚"
+    },
+    {
+      "icon": "🔛"
+    },
+    {
+      "icon": "🔜"
+    },
+    {
+      "icon": "🔝"
+    },
+    {
+      "icon": "🛐"
+    },
+    {
+      "icon": "⚛️"
+    },
+    {
+      "icon": "🕉️"
+    },
+    {
+      "icon": "✡️"
+    },
+    {
+      "icon": "☸️"
+    },
+    {
+      "icon": "☯️"
+    },
+    {
+      "icon": "✝️"
+    },
+    {
+      "icon": "☦️"
+    },
+    {
+      "icon": "☪️"
+    },
+    {
+      "icon": "☮️"
+    },
+    {
+      "icon": "🕎"
+    },
+    {
+      "icon": "🔯"
+    },
+    {
+      "icon": "🪯"
+    },
+    {
+      "icon": "♈️"
+    },
+    {
+      "icon": "♉️"
+    },
+    {
+      "icon": "♊️"
+    },
+    {
+      "icon": "♋️"
+    },
+    {
+      "icon": "♌️"
+    },
+    {
+      "icon": "♍️"
+    },
+    {
+      "icon": "♎️"
+    },
+    {
+      "icon": "♏️"
+    },
+    {
+      "icon": "♐️"
+    },
+    {
+      "icon": "♑️"
+    },
+    {
+      "icon": "♒️"
+    },
+    {
+      "icon": "♓️"
+    },
+    {
+      "icon": "⛎"
+    },
+    {
+      "icon": "🔀"
+    },
+    {
+      "icon": "🔁"
+    },
+    {
+      "icon": "🔂"
+    },
+    {
+      "icon": "▶️"
+    },
+    {
+      "icon": "⏩"
+    },
+    {
+      "icon": "⏭️"
+    },
+    {
+      "icon": "⏯️"
+    },
+    {
+      "icon": "◀️"
+    },
+    {
+      "icon": "⏪"
+    },
+    {
+      "icon": "⏮️"
+    },
+    {
+      "icon": "🔼"
+    },
+    {
+      "icon": "⏫"
+    },
+    {
+      "icon": "🔽"
+    },
+    {
+      "icon": "⏬"
+    },
+    {
+      "icon": "⏸️"
+    },
+    {
+      "icon": "⏹️"
+    },
+    {
+      "icon": "⏺️"
+    },
+    {
+      "icon": "⏏️"
+    },
+    {
+      "icon": "🎦"
+    },
+    {
+      "icon": "🔅"
+    },
+    {
+      "icon": "🔆"
+    },
+    {
+      "icon": "📶"
+    },
+    {
+      "icon": "🛜"
+    },
+    {
+      "icon": "📳"
+    },
+    {
+      "icon": "📴"
+    },
+    {
+      "icon": "♀️"
+    },
+    {
+      "icon": "♂️"
+    },
+    {
+      "icon": "⚧️"
+    },
+    {
+      "icon": "✖️"
+    },
+    {
+      "icon": "➕"
+    },
+    {
+      "icon": "➖"
+    },
+    {
+      "icon": "➗"
+    },
+    {
+      "icon": "🟰"
+    },
+    {
+      "icon": "♾️"
+    },
+    {
+      "icon": "‼️"
+    },
+    {
+      "icon": "⁉️"
+    },
+    {
+      "icon": "❓"
+    },
+    {
+      "icon": "❔"
+    },
+    {
+      "icon": "❕"
+    },
+    {
+      "icon": "❗️"
+    },
+    {
+      "icon": "〰️"
+    },
+    {
+      "icon": "💱"
+    },
+    {
+      "icon": "💲"
+    },
+    {
+      "icon": "⚕️"
+    },
+    {
+      "icon": "♻️"
+    },
+    {
+      "icon": "⚜️"
+    },
+    {
+      "icon": "🔱"
+    },
+    {
+      "icon": "📛"
+    },
+    {
+      "icon": "🔰"
+    },
+    {
+      "icon": "⭕️"
+    },
+    {
+      "icon": "✅"
+    },
+    {
+      "icon": "☑️"
+    },
+    {
+      "icon": "✔️"
+    },
+    {
+      "icon": "❌"
+    },
+    {
+      "icon": "❎"
+    },
+    {
+      "icon": "➰"
+    },
+    {
+      "icon": "➿"
+    },
+    {
+      "icon": "〽️"
+    },
+    {
+      "icon": "✳️"
+    },
+    {
+      "icon": "✴️"
+    },
+    {
+      "icon": "❇️"
+    },
+    {
+      "icon": "©️"
+    },
+    {
+      "icon": "®️"
+    },
+    {
+      "icon": "™️"
+    },
+    {
+      "icon": "#️⃣"
+    },
+    {
+      "icon": "*️⃣"
+    },
+    {
+      "icon": "0️⃣"
+    },
+    {
+      "icon": "1️⃣"
+    },
+    {
+      "icon": "2️⃣"
+    },
+    {
+      "icon": "3️⃣"
+    },
+    {
+      "icon": "4️⃣"
+    },
+    {
+      "icon": "5️⃣"
+    },
+    {
+      "icon": "6️⃣"
+    },
+    {
+      "icon": "7️⃣"
+    },
+    {
+      "icon": "8️⃣"
+    },
+    {
+      "icon": "9️⃣"
+    },
+    {
+      "icon": "🔟"
+    },
+    {
+      "icon": "🔠"
+    },
+    {
+      "icon": "🔡"
+    },
+    {
+      "icon": "🔢"
+    },
+    {
+      "icon": "🔣"
+    },
+    {
+      "icon": "🔤"
+    },
+    {
+      "icon": "🅰️"
+    },
+    {
+      "icon": "🆎"
+    },
+    {
+      "icon": "🅱️"
+    },
+    {
+      "icon": "🆑"
+    },
+    {
+      "icon": "🆒"
+    },
+    {
+      "icon": "🆓"
+    },
+    {
+      "icon": "ℹ️"
+    },
+    {
+      "icon": "🆔"
+    },
+    {
+      "icon": "Ⓜ️"
+    },
+    {
+      "icon": "🆕"
+    },
+    {
+      "icon": "🆖"
+    },
+    {
+      "icon": "🅾️"
+    },
+    {
+      "icon": "🆗"
+    },
+    {
+      "icon": "🅿️"
+    },
+    {
+      "icon": "🆘"
+    },
+    {
+      "icon": "🆙"
+    },
+    {
+      "icon": "🆚"
+    },
+    {
+      "icon": "🈁"
+    },
+    {
+      "icon": "🈂️"
+    },
+    {
+      "icon": "🈷️"
+    },
+    {
+      "icon": "🈶"
+    },
+    {
+      "icon": "🈯"
+    },
+    {
+      "icon": "🉐"
+    },
+    {
+      "icon": "🈹"
+    },
+    {
+      "icon": "🈚"
+    },
+    {
+      "icon": "🈲"
+    },
+    {
+      "icon": "🉑"
+    },
+    {
+      "icon": "🈸"
+    },
+    {
+      "icon": "🈴"
+    },
+    {
+      "icon": "🈳"
+    },
+    {
+      "icon": "㊗️"
+    },
+    {
+      "icon": "㊙️"
+    },
+    {
+      "icon": "🈺"
+    },
+    {
+      "icon": "🈵"
+    },
+    {
+      "icon": "🔴"
+    },
+    {
+      "icon": "🟠"
+    },
+    {
+      "icon": "🟡"
+    },
+    {
+      "icon": "🟢"
+    },
+    {
+      "icon": "🔵"
+    },
+    {
+      "icon": "🟣"
+    },
+    {
+      "icon": "🟤"
+    },
+    {
+      "icon": "⚫"
+    },
+    {
+      "icon": "⚪️"
+    },
+    {
+      "icon": "🟥"
+    },
+    {
+      "icon": "🟧"
+    },
+    {
+      "icon": "🟨"
+    },
+    {
+      "icon": "🟩"
+    },
+    {
+      "icon": "🟦"
+    },
+    {
+      "icon": "🟪"
+    },
+    {
+      "icon": "🟫"
+    },
+    {
+      "icon": "⬛️"
+    },
+    {
+      "icon": "⬜️"
+    },
+    {
+      "icon": "◼️"
+    },
+    {
+      "icon": "◻️"
+    },
+    {
+      "icon": "◾️"
+    },
+    {
+      "icon": "◽️"
+    },
+    {
+      "icon": "▪️"
+    },
+    {
+      "icon": "▫️"
+    },
+    {
+      "icon": "🔶"
+    },
+    {
+      "icon": "🔷"
+    },
+    {
+      "icon": "🔸"
+    },
+    {
+      "icon": "🔹"
+    },
+    {
+      "icon": "🔺"
+    },
+    {
+      "icon": "🔻"
+    },
+    {
+      "icon": "💠"
+    },
+    {
+      "icon": "🔘"
+    },
+    {
+      "icon": "🔳"
+    },
+    {
+      "icon": "🔲"
+    }
+  ],
+  "animals_nature": [
+    {
+      "icon": "🐵"
+    },
+    {
+      "icon": "🐒"
+    },
+    {
+      "icon": "🦍"
+    },
+    {
+      "icon": "🦧"
+    },
+    {
+      "icon": "🐶"
+    },
+    {
+      "icon": "🐕"
+    },
+    {
+      "icon": "🦮"
+    },
+    {
+      "icon": "🐕‍🦺"
+    },
+    {
+      "icon": "🐩"
+    },
+    {
+      "icon": "🐺"
+    },
+    {
+      "icon": "🦊"
+    },
+    {
+      "icon": "🦝"
+    },
+    {
+      "icon": "🐱"
+    },
+    {
+      "icon": "🐈"
+    },
+    {
+      "icon": "🐈‍⬛"
+    },
+    {
+      "icon": "🦁"
+    },
+    {
+      "icon": "🐯"
+    },
+    {
+      "icon": "🐅"
+    },
+    {
+      "icon": "🐆"
+    },
+    {
+      "icon": "🐴"
+    },
+    {
+      "icon": "🫎"
+    },
+    {
+      "icon": "🫏"
+    },
+    {
+      "icon": "🐎"
+    },
+    {
+      "icon": "🦄"
+    },
+    {
+      "icon": "🦓"
+    },
+    {
+      "icon": "🦌"
+    },
+    {
+      "icon": "🦬"
+    },
+    {
+      "icon": "🐮"
+    },
+    {
+      "icon": "🐂"
+    },
+    {
+      "icon": "🐃"
+    },
+    {
+      "icon": "🐄"
+    },
+    {
+      "icon": "🐷"
+    },
+    {
+      "icon": "🐖"
+    },
+    {
+      "icon": "🐗"
+    },
+    {
+      "icon": "🐽"
+    },
+    {
+      "icon": "🐏"
+    },
+    {
+      "icon": "🐑"
+    },
+    {
+      "icon": "🐐"
+    },
+    {
+      "icon": "🐪"
+    },
+    {
+      "icon": "🐫"
+    },
+    {
+      "icon": "🦙"
+    },
+    {
+      "icon": "🦒"
+    },
+    {
+      "icon": "🐘"
+    },
+    {
+      "icon": "🦣"
+    },
+    {
+      "icon": "🦏"
+    },
+    {
+      "icon": "🦛"
+    },
+    {
+      "icon": "🐭"
+    },
+    {
+      "icon": "🐁"
+    },
+    {
+      "icon": "🐀"
+    },
+    {
+      "icon": "🐹"
+    },
+    {
+      "icon": "🐰"
+    },
+    {
+      "icon": "🐇"
+    },
+    {
+      "icon": "🐿️"
+    },
+    {
+      "icon": "🦫"
+    },
+    {
+      "icon": "🦔"
+    },
+    {
+      "icon": "🦇"
+    },
+    {
+      "icon": "🐻"
+    },
+    {
+      "icon": "🐻‍❄️"
+    },
+    {
+      "icon": "🐨"
+    },
+    {
+      "icon": "🐼"
+    },
+    {
+      "icon": "🦥"
+    },
+    {
+      "icon": "🦦"
+    },
+    {
+      "icon": "🦨"
+    },
+    {
+      "icon": "🦘"
+    },
+    {
+      "icon": "🦡"
+    },
+    {
+      "icon": "🐾"
+    },
+    {
+      "icon": "🦃"
+    },
+    {
+      "icon": "🐔"
+    },
+    {
+      "icon": "🐓"
+    },
+    {
+      "icon": "🐣"
+    },
+    {
+      "icon": "🐤"
+    },
+    {
+      "icon": "🐥"
+    },
+    {
+      "icon": "🐦"
+    },
+    {
+      "icon": "🐧"
+    },
+    {
+      "icon": "🕊️"
+    },
+    {
+      "icon": "🦅"
+    },
+    {
+      "icon": "🦆"
+    },
+    {
+      "icon": "🦢"
+    },
+    {
+      "icon": "🦉"
+    },
+    {
+      "icon": "🦤"
+    },
+    {
+      "icon": "🪶"
+    },
+    {
+      "icon": "🦩"
+    },
+    {
+      "icon": "🦚"
+    },
+    {
+      "icon": "🦜"
+    },
+    {
+      "icon": "🪽"
+    },
+    {
+      "icon": "🐦‍⬛"
+    },
+    {
+      "icon": "🪿"
+    },
+    {
+      "icon": "🐸"
+    },
+    {
+      "icon": "🐊"
+    },
+    {
+      "icon": "🐢"
+    },
+    {
+      "icon": "🦎"
+    },
+    {
+      "icon": "🐍"
+    },
+    {
+      "icon": "🐲"
+    },
+    {
+      "icon": "🐉"
+    },
+    {
+      "icon": "🦕"
+    },
+    {
+      "icon": "🦖"
+    },
+    {
+      "icon": "🐳"
+    },
+    {
+      "icon": "🐋"
+    },
+    {
+      "icon": "🐬"
+    },
+    {
+      "icon": "🦭"
+    },
+    {
+      "icon": "🐟"
+    },
+    {
+      "icon": "🐠"
+    },
+    {
+      "icon": "🐡"
+    },
+    {
+      "icon": "🦈"
+    },
+    {
+      "icon": "🐙"
+    },
+    {
+      "icon": "🐚"
+    },
+    {
+      "icon": "🪸"
+    },
+    {
+      "icon": "🪼"
+    },
+    {
+      "icon": "🐌"
+    },
+    {
+      "icon": "🦋"
+    },
+    {
+      "icon": "🐛"
+    },
+    {
+      "icon": "🐜"
+    },
+    {
+      "icon": "🐝"
+    },
+    {
+      "icon": "🪲"
+    },
+    {
+      "icon": "🐞"
+    },
+    {
+      "icon": "🦗"
+    },
+    {
+      "icon": "🪳"
+    },
+    {
+      "icon": "🕷️"
+    },
+    {
+      "icon": "🕸️"
+    },
+    {
+      "icon": "🦂"
+    },
+    {
+      "icon": "🦟"
+    },
+    {
+      "icon": "🪰"
+    },
+    {
+      "icon": "🪱"
+    },
+    {
+      "icon": "🦠"
+    },
+    {
+      "icon": "💐"
+    },
+    {
+      "icon": "🌸"
+    },
+    {
+      "icon": "💮"
+    },
+    {
+      "icon": "🪷"
+    },
+    {
+      "icon": "🏵️"
+    },
+    {
+      "icon": "🌹"
+    },
+    {
+      "icon": "🥀"
+    },
+    {
+      "icon": "🌺"
+    },
+    {
+      "icon": "🌻"
+    },
+    {
+      "icon": "🌼"
+    },
+    {
+      "icon": "🌷"
+    },
+    {
+      "icon": "🪻"
+    },
+    {
+      "icon": "🌱"
+    },
+    {
+      "icon": "🪴"
+    },
+    {
+      "icon": "🌲"
+    },
+    {
+      "icon": "🌳"
+    },
+    {
+      "icon": "🌴"
+    },
+    {
+      "icon": "🌵"
+    },
+    {
+      "icon": "🌾"
+    },
+    {
+      "icon": "🌿"
+    },
+    {
+      "icon": "☘️"
+    },
+    {
+      "icon": "🍀"
+    },
+    {
+      "icon": "🍁"
+    },
+    {
+      "icon": "🍂"
+    },
+    {
+      "icon": "🍃"
+    },
+    {
+      "icon": "🪹"
+    },
+    {
+      "icon": "🪺"
+    },
+    {
+      "icon": "🍄"
+    }
+  ],
+  "food_drink": [
+    {
+      "icon": "🍇"
+    },
+    {
+      "icon": "🍈"
+    },
+    {
+      "icon": "🍉"
+    },
+    {
+      "icon": "🍊"
+    },
+    {
+      "icon": "🍋"
+    },
+    {
+      "icon": "🍌"
+    },
+    {
+      "icon": "🍍"
+    },
+    {
+      "icon": "🥭"
+    },
+    {
+      "icon": "🍎"
+    },
+    {
+      "icon": "🍏"
+    },
+    {
+      "icon": "🍐"
+    },
+    {
+      "icon": "🍑"
+    },
+    {
+      "icon": "🍒"
+    },
+    {
+      "icon": "🍓"
+    },
+    {
+      "icon": "🫐"
+    },
+    {
+      "icon": "🥝"
+    },
+    {
+      "icon": "🍅"
+    },
+    {
+      "icon": "🫒"
+    },
+    {
+      "icon": "🥥"
+    },
+    {
+      "icon": "🥑"
+    },
+    {
+      "icon": "🍆"
+    },
+    {
+      "icon": "🥔"
+    },
+    {
+      "icon": "🥕"
+    },
+    {
+      "icon": "🌽"
+    },
+    {
+      "icon": "🌶️"
+    },
+    {
+      "icon": "🫑"
+    },
+    {
+      "icon": "🥒"
+    },
+    {
+      "icon": "🥬"
+    },
+    {
+      "icon": "🥦"
+    },
+    {
+      "icon": "🧄"
+    },
+    {
+      "icon": "🧅"
+    },
+    {
+      "icon": "🥜"
+    },
+    {
+      "icon": "🫘"
+    },
+    {
+      "icon": "🌰"
+    },
+    {
+      "icon": "🫚"
+    },
+    {
+      "icon": "🫛"
+    },
+    {
+      "icon": "🍞"
+    },
+    {
+      "icon": "🥐"
+    },
+    {
+      "icon": "🥖"
+    },
+    {
+      "icon": "🫓"
+    },
+    {
+      "icon": "🥨"
+    },
+    {
+      "icon": "🥯"
+    },
+    {
+      "icon": "🥞"
+    },
+    {
+      "icon": "🧇"
+    },
+    {
+      "icon": "🧀"
+    },
+    {
+      "icon": "🍖"
+    },
+    {
+      "icon": "🍗"
+    },
+    {
+      "icon": "🥩"
+    },
+    {
+      "icon": "🥓"
+    },
+    {
+      "icon": "🍔"
+    },
+    {
+      "icon": "🍟"
+    },
+    {
+      "icon": "🍕"
+    },
+    {
+      "icon": "🌭"
+    },
+    {
+      "icon": "🥪"
+    },
+    {
+      "icon": "🌮"
+    },
+    {
+      "icon": "🌯"
+    },
+    {
+      "icon": "🫔"
+    },
+    {
+      "icon": "🥙"
+    },
+    {
+      "icon": "🧆"
+    },
+    {
+      "icon": "🥚"
+    },
+    {
+      "icon": "🍳"
+    },
+    {
+      "icon": "🥘"
+    },
+    {
+      "icon": "🍲"
+    },
+    {
+      "icon": "🫕"
+    },
+    {
+      "icon": "🥣"
+    },
+    {
+      "icon": "🥗"
+    },
+    {
+      "icon": "🍿"
+    },
+    {
+      "icon": "🧈"
+    },
+    {
+      "icon": "🧂"
+    },
+    {
+      "icon": "🥫"
+    },
+    {
+      "icon": "🍱"
+    },
+    {
+      "icon": "🍘"
+    },
+    {
+      "icon": "🍙"
+    },
+    {
+      "icon": "🍚"
+    },
+    {
+      "icon": "🍛"
+    },
+    {
+      "icon": "🍜"
+    },
+    {
+      "icon": "🍝"
+    },
+    {
+      "icon": "🍠"
+    },
+    {
+      "icon": "🍢"
+    },
+    {
+      "icon": "🍣"
+    },
+    {
+      "icon": "🍤"
+    },
+    {
+      "icon": "🍥"
+    },
+    {
+      "icon": "🥮"
+    },
+    {
+      "icon": "🍡"
+    },
+    {
+      "icon": "🥟"
+    },
+    {
+      "icon": "🥠"
+    },
+    {
+      "icon": "🥡"
+    },
+    {
+      "icon": "🦀"
+    },
+    {
+      "icon": "🦞"
+    },
+    {
+      "icon": "🦐"
+    },
+    {
+      "icon": "🦑"
+    },
+    {
+      "icon": "🦪"
+    },
+    {
+      "icon": "🍦"
+    },
+    {
+      "icon": "🍧"
+    },
+    {
+      "icon": "🍨"
+    },
+    {
+      "icon": "🍩"
+    },
+    {
+      "icon": "🍪"
+    },
+    {
+      "icon": "🎂"
+    },
+    {
+      "icon": "🍰"
+    },
+    {
+      "icon": "🧁"
+    },
+    {
+      "icon": "🥧"
+    },
+    {
+      "icon": "🍫"
+    },
+    {
+      "icon": "🍬"
+    },
+    {
+      "icon": "🍭"
+    },
+    {
+      "icon": "🍮"
+    },
+    {
+      "icon": "🍯"
+    },
+    {
+      "icon": "🍼"
+    },
+    {
+      "icon": "🥛"
+    },
+    {
+      "icon": "☕️"
+    },
+    {
+      "icon": "🫖"
+    },
+    {
+      "icon": "🍵"
+    },
+    {
+      "icon": "🍶"
+    },
+    {
+      "icon": "🍾"
+    },
+    {
+      "icon": "🍷"
+    },
+    {
+      "icon": "🍸"
+    },
+    {
+      "icon": "🍹"
+    },
+    {
+      "icon": "🍺"
+    },
+    {
+      "icon": "🍻"
+    },
+    {
+      "icon": "🥂"
+    },
+    {
+      "icon": "🥃"
+    },
+    {
+      "icon": "🫗"
+    },
+    {
+      "icon": "🥤"
+    },
+    {
+      "icon": "🧋"
+    },
+    {
+      "icon": "🧃"
+    },
+    {
+      "icon": "🧉"
+    },
+    {
+      "icon": "🧊"
+    },
+    {
+      "icon": "🥢"
+    },
+    {
+      "icon": "🍽️"
+    },
+    {
+      "icon": "🍴"
+    },
+    {
+      "icon": "🥄"
+    },
+    {
+      "icon": "🔪"
+    },
+    {
+      "icon": "🫙"
+    },
+    {
+      "icon": "🏺"
+    }
+  ],
+  "travel_places": [
+    {
+      "icon": "🌍"
+    },
+    {
+      "icon": "🌎"
+    },
+    {
+      "icon": "🌏"
+    },
+    {
+      "icon": "🌐"
+    },
+    {
+      "icon": "🗺️"
+    },
+    {
+      "icon": "🗾"
+    },
+    {
+      "icon": "🧭"
+    },
+    {
+      "icon": "🏔️"
+    },
+    {
+      "icon": "⛰️"
+    },
+    {
+      "icon": "🌋"
+    },
+    {
+      "icon": "🗻"
+    },
+    {
+      "icon": "🏕️"
+    },
+    {
+      "icon": "🏖️"
+    },
+    {
+      "icon": "🏜️"
+    },
+    {
+      "icon": "🏝️"
+    },
+    {
+      "icon": "🏞️"
+    },
+    {
+      "icon": "🏟️"
+    },
+    {
+      "icon": "🏛️"
+    },
+    {
+      "icon": "🏗️"
+    },
+    {
+      "icon": "🧱"
+    },
+    {
+      "icon": "🪨"
+    },
+    {
+      "icon": "🪵"
+    },
+    {
+      "icon": "🛖"
+    },
+    {
+      "icon": "🏘️"
+    },
+    {
+      "icon": "🏚"
+    },
+    {
+      "icon": "🏠️"
+    },
+    {
+      "icon": "🏡"
+    },
+    {
+      "icon": "🏢"
+    },
+    {
+      "icon": "🏣"
+    },
+    {
+      "icon": "🏤"
+    },
+    {
+      "icon": "🏥"
+    },
+    {
+      "icon": "🏦"
+    },
+    {
+      "icon": "🏨"
+    },
+    {
+      "icon": "🏩"
+    },
+    {
+      "icon": "🏪"
+    },
+    {
+      "icon": "🏫"
+    },
+    {
+      "icon": "🏬"
+    },
+    {
+      "icon": "🏭"
+    },
+    {
+      "icon": "🏯"
+    },
+    {
+      "icon": "🏰"
+    },
+    {
+      "icon": "💒"
+    },
+    {
+      "icon": "🗼"
+    },
+    {
+      "icon": "🗽"
+    },
+    {
+      "icon": "⛪"
+    },
+    {
+      "icon": "🕌"
+    },
+    {
+      "icon": "🛕"
+    },
+    {
+      "icon": "🕍"
+    },
+    {
+      "icon": "⛩️"
+    },
+    {
+      "icon": "🕋"
+    },
+    {
+      "icon": "⛲️"
+    },
+    {
+      "icon": "⛺️"
+    },
+    {
+      "icon": "🌁"
+    },
+    {
+      "icon": "🌃"
+    },
+    {
+      "icon": "🏙️"
+    },
+    {
+      "icon": "🌄"
+    },
+    {
+      "icon": "🌅"
+    },
+    {
+      "icon": "🌆"
+    },
+    {
+      "icon": "🌇"
+    },
+    {
+      "icon": "🌉"
+    },
+    {
+      "icon": "♨️"
+    },
+    {
+      "icon": "🎠"
+    },
+    {
+      "icon": "🛝"
+    },
+    {
+      "icon": "🎡"
+    },
+    {
+      "icon": "🎢"
+    },
+    {
+      "icon": "💈"
+    },
+    {
+      "icon": "🎪"
+    },
+    {
+      "icon": "🚂"
+    },
+    {
+      "icon": "🚃"
+    },
+    {
+      "icon": "🚄"
+    },
+    {
+      "icon": "🚅"
+    },
+    {
+      "icon": "🚆"
+    },
+    {
+      "icon": "🚇"
+    },
+    {
+      "icon": "🚈"
+    },
+    {
+      "icon": "🚉"
+    },
+    {
+      "icon": "🚊"
+    },
+    {
+      "icon": "🚝"
+    },
+    {
+      "icon": "🚞"
+    },
+    {
+      "icon": "🚋"
+    },
+    {
+      "icon": "🚌"
+    },
+    {
+      "icon": "🚍️"
+    },
+    {
+      "icon": "🚎"
+    },
+    {
+      "icon": "🚐"
+    },
+    {
+      "icon": "🚑"
+    },
+    {
+      "icon": "🚒"
+    },
+    {
+      "icon": "🚓"
+    },
+    {
+      "icon": "🚔"
+    },
+    {
+      "icon": "🚕"
+    },
+    {
+      "icon": "🚖"
+    },
+    {
+      "icon": "🚗"
+    },
+    {
+      "icon": "🚘"
+    },
+    {
+      "icon": "🚙"
+    },
+    {
+      "icon": "🛻"
+    },
+    {
+      "icon": "🚚"
+    },
+    {
+      "icon": "🚛"
+    },
+    {
+      "icon": "🚜"
+    },
+    {
+      "icon": "🏎️"
+    },
+    {
+      "icon": "🏍️"
+    },
+    {
+      "icon": "🛵"
+    },
+    {
+      "icon": "🦽"
+    },
+    {
+      "icon": "🦼"
+    },
+    {
+      "icon": "🛺"
+    },
+    {
+      "icon": "🚲"
+    },
+    {
+      "icon": "🛴"
+    },
+    {
+      "icon": "🛹"
+    },
+    {
+      "icon": "🛼"
+    },
+    {
+      "icon": "🚏"
+    },
+    {
+      "icon": "🛣️"
+    },
+    {
+      "icon": "🛤️"
+    },
+    {
+      "icon": "🛢️"
+    },
+    {
+      "icon": "⛽"
+    },
+    {
+      "icon": "🛞"
+    },
+    {
+      "icon": "🚨"
+    },
+    {
+      "icon": "🚥"
+    },
+    {
+      "icon": "🚦"
+    },
+    {
+      "icon": "🛑"
+    },
+    {
+      "icon": "🚧"
+    },
+    {
+      "icon": "⚓️"
+    },
+    {
+      "icon": "🛟"
+    },
+    {
+      "icon": "⛵️"
+    },
+    {
+      "icon": "🛶"
+    },
+    {
+      "icon": "🚤"
+    },
+    {
+      "icon": "🛳️"
+    },
+    {
+      "icon": "⛴️"
+    },
+    {
+      "icon": "🛥️"
+    },
+    {
+      "icon": "🚢"
+    },
+    {
+      "icon": "✈️"
+    },
+    {
+      "icon": "🛩️"
+    },
+    {
+      "icon": "🛫"
+    },
+    {
+      "icon": "🛬"
+    },
+    {
+      "icon": "🪂"
+    },
+    {
+      "icon": "💺"
+    },
+    {
+      "icon": "🚁"
+    },
+    {
+      "icon": "🚟"
+    },
+    {
+      "icon": "🚠"
+    },
+    {
+      "icon": "🚡"
+    },
+    {
+      "icon": "🛰️"
+    },
+    {
+      "icon": "🚀"
+    },
+    {
+      "icon": "🛸"
+    },
+    {
+      "icon": "🛎️"
+    },
+    {
+      "icon": "🧳"
+    },
+    {
+      "icon": "⌛"
+    },
+    {
+      "icon": "⏳"
+    },
+    {
+      "icon": "⌚️"
+    },
+    {
+      "icon": "⏰"
+    },
+    {
+      "icon": "⏱️"
+    },
+    {
+      "icon": "⏲️"
+    },
+    {
+      "icon": "🕰️"
+    },
+    {
+      "icon": "🕛"
+    },
+    {
+      "icon": "🕧"
+    },
+    {
+      "icon": "🕐"
+    },
+    {
+      "icon": "🕜"
+    },
+    {
+      "icon": "🕑"
+    },
+    {
+      "icon": "🕝"
+    },
+    {
+      "icon": "🕒"
+    },
+    {
+      "icon": "🕞"
+    },
+    {
+      "icon": "🕓"
+    },
+    {
+      "icon": "🕟"
+    },
+    {
+      "icon": "🕔"
+    },
+    {
+      "icon": "🕠"
+    },
+    {
+      "icon": "🕕"
+    },
+    {
+      "icon": "🕡"
+    },
+    {
+      "icon": "🕖"
+    },
+    {
+      "icon": "🕢"
+    },
+    {
+      "icon": "🕗"
+    },
+    {
+      "icon": "🕣"
+    },
+    {
+      "icon": "🕘"
+    },
+    {
+      "icon": "🕤"
+    },
+    {
+      "icon": "🕙"
+    },
+    {
+      "icon": "🕥"
+    },
+    {
+      "icon": "🕚"
+    },
+    {
+      "icon": "🕦"
+    },
+    {
+      "icon": "🌑"
+    },
+    {
+      "icon": "🌒"
+    },
+    {
+      "icon": "🌓"
+    },
+    {
+      "icon": "🌔"
+    },
+    {
+      "icon": "🌕"
+    },
+    {
+      "icon": "🌖"
+    },
+    {
+      "icon": "🌗"
+    },
+    {
+      "icon": "🌘"
+    },
+    {
+      "icon": "🌙"
+    },
+    {
+      "icon": "🌚"
+    },
+    {
+      "icon": "🌛"
+    },
+    {
+      "icon": "🌜"
+    },
+    {
+      "icon": "🌡️"
+    },
+    {
+      "icon": "☀️"
+    },
+    {
+      "icon": "🌝"
+    },
+    {
+      "icon": "🌞"
+    },
+    {
+      "icon": "🪐"
+    },
+    {
+      "icon": "⭐"
+    },
+    {
+      "icon": "🌟"
+    },
+    {
+      "icon": "🌠"
+    },
+    {
+      "icon": "🌌"
+    },
+    {
+      "icon": "☁️"
+    },
+    {
+      "icon": "⛅"
+    },
+    {
+      "icon": "⛈️"
+    },
+    {
+      "icon": "🌤️"
+    },
+    {
+      "icon": "🌥️"
+    },
+    {
+      "icon": "🌦️"
+    },
+    {
+      "icon": "🌧️"
+    },
+    {
+      "icon": "🌨️"
+    },
+    {
+      "icon": "🌩️"
+    },
+    {
+      "icon": "🌪️"
+    },
+    {
+      "icon": "🌫️"
+    },
+    {
+      "icon": "🌬️"
+    },
+    {
+      "icon": "🌀"
+    },
+    {
+      "icon": "🌈"
+    },
+    {
+      "icon": "🌂"
+    },
+    {
+      "icon": "☂️"
+    },
+    {
+      "icon": "☔️"
+    },
+    {
+      "icon": "⛱️"
+    },
+    {
+      "icon": "⚡"
+    },
+    {
+      "icon": "❄️"
+    },
+    {
+      "icon": "☃️"
+    },
+    {
+      "icon": "⛄️"
+    },
+    {
+      "icon": "☄️"
+    },
+    {
+      "icon": "🔥"
+    },
+    {
+      "icon": "💧"
+    },
+    {
+      "icon": "🌊"
+    },
+    {
+      "icon": "🏁"
+    },
+    {
+      "icon": "🚩"
+    },
+    {
+      "icon": "🎌"
+    },
+    {
+      "icon": "🏴"
+    },
+    {
+      "icon": "🏳️"
+    },
+    {
+      "icon": "🏳️‍🌈"
+    },
+    {
+      "icon": "🏳️‍⚧️"
+    },
+    {
+      "icon": "🏴‍☠️"
+    },
+    {
+      "icon": "🇦🇨"
+    },
+    {
+      "icon": "🇦🇩"
+    },
+    {
+      "icon": "🇦🇪"
+    },
+    {
+      "icon": "🇦🇫"
+    },
+    {
+      "icon": "🇦🇬"
+    },
+    {
+      "icon": "🇦🇮"
+    },
+    {
+      "icon": "🇦🇱"
+    },
+    {
+      "icon": "🇦🇲"
+    },
+    {
+      "icon": "🇦🇴"
+    },
+    {
+      "icon": "🇦🇶"
+    },
+    {
+      "icon": "🇦🇷"
+    },
+    {
+      "icon": "🇦🇸"
+    },
+    {
+      "icon": "🇦🇹"
+    },
+    {
+      "icon": "🇦🇺"
+    },
+    {
+      "icon": "🇦🇼"
+    },
+    {
+      "icon": "🇦🇽"
+    },
+    {
+      "icon": "🇦🇿"
+    },
+    {
+      "icon": "🇧🇦"
+    },
+    {
+      "icon": "🇧🇧"
+    },
+    {
+      "icon": "🇧🇩"
+    },
+    {
+      "icon": "🇧🇪"
+    },
+    {
+      "icon": "🇧🇫"
+    },
+    {
+      "icon": "🇧🇬"
+    },
+    {
+      "icon": "🇧🇭"
+    },
+    {
+      "icon": "🇧🇮"
+    },
+    {
+      "icon": "🇧🇯"
+    },
+    {
+      "icon": "🇧🇱"
+    },
+    {
+      "icon": "🇧🇲"
+    },
+    {
+      "icon": "🇧🇳"
+    },
+    {
+      "icon": "🇧🇴"
+    },
+    {
+      "icon": "🇧🇶"
+    },
+    {
+      "icon": "🇧🇷"
+    },
+    {
+      "icon": "🇧🇸"
+    },
+    {
+      "icon": "🇧🇹"
+    },
+    {
+      "icon": "🇧🇻"
+    },
+    {
+      "icon": "🇧🇼"
+    },
+    {
+      "icon": "🇧🇾"
+    },
+    {
+      "icon": "🇧🇿"
+    },
+    {
+      "icon": "🇨🇦"
+    },
+    {
+      "icon": "🇨🇨"
+    },
+    {
+      "icon": "🇨🇩"
+    },
+    {
+      "icon": "🇨🇫"
+    },
+    {
+      "icon": "🇨🇬"
+    },
+    {
+      "icon": "🇨🇭"
+    },
+    {
+      "icon": "🇨🇮"
+    },
+    {
+      "icon": "🇨🇰"
+    },
+    {
+      "icon": "🇨🇱"
+    },
+    {
+      "icon": "🇨🇲"
+    },
+    {
+      "icon": "🇨🇳"
+    },
+    {
+      "icon": "🇨🇴"
+    },
+    {
+      "icon": "🇨🇵"
+    },
+    {
+      "icon": "🇨🇷"
+    },
+    {
+      "icon": "🇨🇺"
+    },
+    {
+      "icon": "🇨🇻"
+    },
+    {
+      "icon": "🇨🇼"
+    },
+    {
+      "icon": "🇨🇽"
+    },
+    {
+      "icon": "🇨🇾"
+    },
+    {
+      "icon": "🇨🇿"
+    },
+    {
+      "icon": "🇩🇪"
+    },
+    {
+      "icon": "🇩🇬"
+    },
+    {
+      "icon": "🇩🇯"
+    },
+    {
+      "icon": "🇩🇰"
+    },
+    {
+      "icon": "🇩🇲"
+    },
+    {
+      "icon": "🇩🇴"
+    },
+    {
+      "icon": "🇩🇿"
+    },
+    {
+      "icon": "🇪🇦"
+    },
+    {
+      "icon": "🇪🇨"
+    },
+    {
+      "icon": "🇪🇪"
+    },
+    {
+      "icon": "🇪🇬"
+    },
+    {
+      "icon": "🇪🇭"
+    },
+    {
+      "icon": "🇪🇷"
+    },
+    {
+      "icon": "🇪🇸"
+    },
+    {
+      "icon": "🇪🇹"
+    },
+    {
+      "icon": "🇪🇺"
+    },
+    {
+      "icon": "🇫🇮"
+    },
+    {
+      "icon": "🇫🇯"
+    },
+    {
+      "icon": "🇫🇰"
+    },
+    {
+      "icon": "🇫🇲"
+    },
+    {
+      "icon": "🇫🇴"
+    },
+    {
+      "icon": "🇫🇷"
+    },
+    {
+      "icon": "🇬🇦"
+    },
+    {
+      "icon": "🇬🇧"
+    },
+    {
+      "icon": "🇬🇩"
+    },
+    {
+      "icon": "🇬🇪"
+    },
+    {
+      "icon": "🇬🇫"
+    },
+    {
+      "icon": "🇬🇬"
+    },
+    {
+      "icon": "🇬🇭"
+    },
+    {
+      "icon": "🇬🇮"
+    },
+    {
+      "icon": "🇬🇱"
+    },
+    {
+      "icon": "🇬🇲"
+    },
+    {
+      "icon": "🇬🇳"
+    },
+    {
+      "icon": "🇬🇵"
+    },
+    {
+      "icon": "🇬🇶"
+    },
+    {
+      "icon": "🇬🇷"
+    },
+    {
+      "icon": "🇬🇸"
+    },
+    {
+      "icon": "🇬🇹"
+    },
+    {
+      "icon": "🇬🇺"
+    },
+    {
+      "icon": "🇬🇼"
+    },
+    {
+      "icon": "🇬🇾"
+    },
+    {
+      "icon": "🇭🇰"
+    },
+    {
+      "icon": "🇭🇲"
+    },
+    {
+      "icon": "🇭🇳"
+    },
+    {
+      "icon": "🇭🇷"
+    },
+    {
+      "icon": "🇭🇹"
+    },
+    {
+      "icon": "🇭🇺"
+    },
+    {
+      "icon": "🇮🇨"
+    },
+    {
+      "icon": "🇮🇩"
+    },
+    {
+      "icon": "🇮🇪"
+    },
+    {
+      "icon": "🇮🇱"
+    },
+    {
+      "icon": "🇮🇲"
+    },
+    {
+      "icon": "🇮🇳"
+    },
+    {
+      "icon": "🇮🇴"
+    },
+    {
+      "icon": "🇮🇶"
+    },
+    {
+      "icon": "🇮🇷"
+    },
+    {
+      "icon": "🇮🇸"
+    },
+    {
+      "icon": "🇮🇹"
+    },
+    {
+      "icon": "🇯🇪"
+    },
+    {
+      "icon": "🇯🇲"
+    },
+    {
+      "icon": "🇯🇴"
+    },
+    {
+      "icon": "🇯🇵"
+    },
+    {
+      "icon": "🇰🇪"
+    },
+    {
+      "icon": "🇰🇬"
+    },
+    {
+      "icon": "🇰🇭"
+    },
+    {
+      "icon": "🇰🇮"
+    },
+    {
+      "icon": "🇰🇲"
+    },
+    {
+      "icon": "🇰🇳"
+    },
+    {
+      "icon": "🇰🇵"
+    },
+    {
+      "icon": "🇰🇷"
+    },
+    {
+      "icon": "🇰🇼"
+    },
+    {
+      "icon": "🇰🇾"
+    },
+    {
+      "icon": "🇰🇿"
+    },
+    {
+      "icon": "🇱🇦"
+    },
+    {
+      "icon": "🇱🇧"
+    },
+    {
+      "icon": "🇱🇨"
+    },
+    {
+      "icon": "🇱🇮"
+    },
+    {
+      "icon": "🇱🇰"
+    },
+    {
+      "icon": "🇱🇷"
+    },
+    {
+      "icon": "🇱🇸"
+    },
+    {
+      "icon": "🇱🇹"
+    },
+    {
+      "icon": "🇱🇺"
+    },
+    {
+      "icon": "🇱🇻"
+    },
+    {
+      "icon": "🇱🇾"
+    },
+    {
+      "icon": "🇲🇦"
+    },
+    {
+      "icon": "🇲🇨"
+    },
+    {
+      "icon": "🇲🇩"
+    },
+    {
+      "icon": "🇲🇪"
+    },
+    {
+      "icon": "🇲🇫"
+    },
+    {
+      "icon": "🇲🇬"
+    },
+    {
+      "icon": "🇲🇭"
+    },
+    {
+      "icon": "🇲🇰"
+    },
+    {
+      "icon": "🇲🇱"
+    },
+    {
+      "icon": "🇲🇲"
+    },
+    {
+      "icon": "🇲🇳"
+    },
+    {
+      "icon": "🇲🇴"
+    },
+    {
+      "icon": "🇲🇵"
+    },
+    {
+      "icon": "🇲🇶"
+    },
+    {
+      "icon": "🇲🇷"
+    },
+    {
+      "icon": "🇲🇸"
+    },
+    {
+      "icon": "🇲🇹"
+    },
+    {
+      "icon": "🇲🇺"
+    },
+    {
+      "icon": "🇲🇻"
+    },
+    {
+      "icon": "🇲🇼"
+    },
+    {
+      "icon": "🇲🇽"
+    },
+    {
+      "icon": "🇲🇾"
+    },
+    {
+      "icon": "🇲🇿"
+    },
+    {
+      "icon": "🇳🇦"
+    },
+    {
+      "icon": "🇳🇨"
+    },
+    {
+      "icon": "🇳🇪"
+    },
+    {
+      "icon": "🇳🇫"
+    },
+    {
+      "icon": "🇳🇬"
+    },
+    {
+      "icon": "🇳🇮"
+    },
+    {
+      "icon": "🇳🇱"
+    },
+    {
+      "icon": "🇳🇴"
+    },
+    {
+      "icon": "🇳🇵"
+    },
+    {
+      "icon": "🇳🇷"
+    },
+    {
+      "icon": "🇳🇺"
+    },
+    {
+      "icon": "🇳🇿"
+    },
+    {
+      "icon": "🇴🇲"
+    },
+    {
+      "icon": "🇵🇦"
+    },
+    {
+      "icon": "🇵🇪"
+    },
+    {
+      "icon": "🇵🇫"
+    },
+    {
+      "icon": "🇵🇬"
+    },
+    {
+      "icon": "🇵🇭"
+    },
+    {
+      "icon": "🇵🇰"
+    },
+    {
+      "icon": "🇵🇱"
+    },
+    {
+      "icon": "🇵🇲"
+    },
+    {
+      "icon": "🇵🇳"
+    },
+    {
+      "icon": "🇵🇷"
+    },
+    {
+      "icon": "🇵🇸"
+    },
+    {
+      "icon": "🇵🇹"
+    },
+    {
+      "icon": "🇵🇼"
+    },
+    {
+      "icon": "🇵🇾"
+    },
+    {
+      "icon": "🇶🇦"
+    },
+    {
+      "icon": "🇷🇪"
+    },
+    {
+      "icon": "🇷🇴"
+    },
+    {
+      "icon": "🇷🇸"
+    },
+    {
+      "icon": "🇷🇺"
+    },
+    {
+      "icon": "🇷🇼"
+    },
+    {
+      "icon": "🇸🇦"
+    },
+    {
+      "icon": "🇸🇧"
+    },
+    {
+      "icon": "🇸🇨"
+    },
+    {
+      "icon": "🇸🇩"
+    },
+    {
+      "icon": "🇸🇪"
+    },
+    {
+      "icon": "🇸🇬"
+    },
+    {
+      "icon": "🇸🇭"
+    },
+    {
+      "icon": "🇸🇮"
+    },
+    {
+      "icon": "🇸🇯"
+    },
+    {
+      "icon": "🇸🇰"
+    },
+    {
+      "icon": "🇸🇱"
+    },
+    {
+      "icon": "🇸🇲"
+    },
+    {
+      "icon": "🇸🇳"
+    },
+    {
+      "icon": "🇸🇴"
+    },
+    {
+      "icon": "🇸🇷"
+    },
+    {
+      "icon": "🇸🇸"
+    },
+    {
+      "icon": "🇸🇹"
+    },
+    {
+      "icon": "🇸🇻"
+    },
+    {
+      "icon": "🇸🇽"
+    },
+    {
+      "icon": "🇸🇾"
+    },
+    {
+      "icon": "🇸🇿"
+    },
+    {
+      "icon": "🇹🇦"
+    },
+    {
+      "icon": "🇹🇨"
+    },
+    {
+      "icon": "🇹🇩"
+    },
+    {
+      "icon": "🇹🇫"
+    },
+    {
+      "icon": "🇹🇬"
+    },
+    {
+      "icon": "🇹🇭"
+    },
+    {
+      "icon": "🇹🇯"
+    },
+    {
+      "icon": "🇹🇰"
+    },
+    {
+      "icon": "🇹🇱"
+    },
+    {
+      "icon": "🇹🇲"
+    },
+    {
+      "icon": "🇹🇳"
+    },
+    {
+      "icon": "🇹🇴"
+    },
+    {
+      "icon": "🇹🇷"
+    },
+    {
+      "icon": "🇹🇹"
+    },
+    {
+      "icon": "🇹🇻"
+    },
+    {
+      "icon": "🇹🇼"
+    },
+    {
+      "icon": "🇹🇿"
+    },
+    {
+      "icon": "🇺🇦"
+    },
+    {
+      "icon": "🇺🇬"
+    },
+    {
+      "icon": "🇺🇲"
+    },
+    {
+      "icon": "🇺🇳"
+    },
+    {
+      "icon": "🇺🇸"
+    },
+    {
+      "icon": "🇺🇾"
+    },
+    {
+      "icon": "🇺🇿"
+    },
+    {
+      "icon": "🇻🇦"
+    },
+    {
+      "icon": "🇻🇨"
+    },
+    {
+      "icon": "🇻🇪"
+    },
+    {
+      "icon": "🇻🇬"
+    },
+    {
+      "icon": "🇻🇮"
+    },
+    {
+      "icon": "🇻🇳"
+    },
+    {
+      "icon": "🇻🇺"
+    },
+    {
+      "icon": "🇼🇫"
+    },
+    {
+      "icon": "🇼🇸"
+    },
+    {
+      "icon": "🇽🇰"
+    },
+    {
+      "icon": "🇾🇪"
+    },
+    {
+      "icon": "🇾🇹"
+    },
+    {
+      "icon": "🇿🇦"
+    },
+    {
+      "icon": "🇿🇲"
+    },
+    {
+      "icon": "🇿🇼"
+    },
+    {
+      "icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    },
+    {
+      "icon": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    {
+      "icon": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+    }
+  ],
+  "activities": [
+    {
+      "icon": "🎃"
+    },
+    {
+      "icon": "🎄"
+    },
+    {
+      "icon": "🎆"
+    },
+    {
+      "icon": "🎇"
+    },
+    {
+      "icon": "🧨"
+    },
+    {
+      "icon": "✨"
+    },
+    {
+      "icon": "🎈"
+    },
+    {
+      "icon": "🎉"
+    },
+    {
+      "icon": "🎊"
+    },
+    {
+      "icon": "🎋"
+    },
+    {
+      "icon": "🎍"
+    },
+    {
+      "icon": "🎎"
+    },
+    {
+      "icon": "🎏"
+    },
+    {
+      "icon": "🎐"
+    },
+    {
+      "icon": "🎑"
+    },
+    {
+      "icon": "🧧"
+    },
+    {
+      "icon": "🎀"
+    },
+    {
+      "icon": "🎁"
+    },
+    {
+      "icon": "🎗️"
+    },
+    {
+      "icon": "🎟️"
+    },
+    {
+      "icon": "🎫"
+    },
+    {
+      "icon": "🎖️"
+    },
+    {
+      "icon": "🏆️"
+    },
+    {
+      "icon": "🏅"
+    },
+    {
+      "icon": "🥇"
+    },
+    {
+      "icon": "🥈"
+    },
+    {
+      "icon": "🥉"
+    },
+    {
+      "icon": "⚽️"
+    },
+    {
+      "icon": "⚾️"
+    },
+    {
+      "icon": "🥎"
+    },
+    {
+      "icon": "🏀"
+    },
+    {
+      "icon": "🏐"
+    },
+    {
+      "icon": "🏈"
+    },
+    {
+      "icon": "🏉"
+    },
+    {
+      "icon": "🎾"
+    },
+    {
+      "icon": "🥏"
+    },
+    {
+      "icon": "🎳"
+    },
+    {
+      "icon": "🏏"
+    },
+    {
+      "icon": "🏑"
+    },
+    {
+      "icon": "🏒"
+    },
+    {
+      "icon": "🥍"
+    },
+    {
+      "icon": "🏓"
+    },
+    {
+      "icon": "🏸"
+    },
+    {
+      "icon": "🥊"
+    },
+    {
+      "icon": "🥋"
+    },
+    {
+      "icon": "🥅"
+    },
+    {
+      "icon": "⛳️"
+    },
+    {
+      "icon": "⛸️"
+    },
+    {
+      "icon": "🎣"
+    },
+    {
+      "icon": "🤿"
+    },
+    {
+      "icon": "🎽"
+    },
+    {
+      "icon": "🎿"
+    },
+    {
+      "icon": "🛷"
+    },
+    {
+      "icon": "🥌"
+    },
+    {
+      "icon": "🎯"
+    },
+    {
+      "icon": "🪀"
+    },
+    {
+      "icon": "🪁"
+    },
+    {
+      "icon": "🔫"
+    },
+    {
+      "icon": "🎱"
+    },
+    {
+      "icon": "🔮"
+    },
+    {
+      "icon": "🪄"
+    },
+    {
+      "icon": "🎮"
+    },
+    {
+      "icon": "🕹️"
+    },
+    {
+      "icon": "🎰"
+    },
+    {
+      "icon": "🎲"
+    },
+    {
+      "icon": "🧩"
+    },
+    {
+      "icon": "🧸"
+    },
+    {
+      "icon": "🪅"
+    },
+    {
+      "icon": "🪩"
+    },
+    {
+      "icon": "🪆"
+    },
+    {
+      "icon": "♠️"
+    },
+    {
+      "icon": "♥️"
+    },
+    {
+      "icon": "♦️"
+    },
+    {
+      "icon": "♣️"
+    },
+    {
+      "icon": "♟️"
+    },
+    {
+      "icon": "🃏"
+    },
+    {
+      "icon": "🀄️"
+    },
+    {
+      "icon": "🎴"
+    },
+    {
+      "icon": "🎭"
+    },
+    {
+      "icon": "🖼️"
+    },
+    {
+      "icon": "🎨"
+    },
+    {
+      "icon": "🧵"
+    },
+    {
+      "icon": "🪡"
+    },
+    {
+      "icon": "🧶"
+    },
+    {
+      "icon": "🪢"
+    }
+  ]
+}

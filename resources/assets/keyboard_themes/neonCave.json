@@ -1,0 +1,303 @@
+{
+  "name": "neonCave",
+  "isPremium": true,
+  "background-img": "neon-cave",
+  "background-color": "#111111",
+  "box-shadow-color": "",
+  "typewise-icon": "typewise-no-hex",
+  "are-navigation-bar-buttons-dark": false,
+  "alternativecharacterspopup": {
+    "background": "#f4f4f4",
+    "character": {
+      "state-default": {
+        "font-color": "#424242"
+      },
+      "state-active": {
+        "background-color": "#111111",
+        "font-color": "#FFFFFF"
+      }
+    }
+  },
+  "keypopup": {
+    "background": "#000000",
+    "font-color": "#eeeeee"
+  },
+  "smartbar": {
+    "background-color": "#111111",
+    "font-color": "#FFFFFF",
+    "divider-color": "#FFFFFF70",
+    "arrow-close-icon":"#FFFFFF",
+    "selected-background": "#3C61E2",
+    "selected-font-color": "#FFFFFF",
+    "unselected-background": "#FFFFFF26",
+    "unselected-font-color": "#FFFFFF",
+    "undo-background": "#1D58E2",
+    "undo-font-color": "#FFFFFF",
+    "undo-icon-color": "#FFFFFF",
+    "delete-background": "#c20648",
+    "delete-font-color": "#FFFFFF",
+    "spinner-color": "#FFFFFF",
+    "pro-feature": "#cccccc",
+    "password-manager-color": "#AB0E4Fb3",
+    "password-manager-font": "#FFFFFF"
+  },
+  "fullAccess": {
+    "background-color": "#111111",
+    "font-color": "#FFFFFF",
+    "highlights": {
+      "primary-color": "#AB0E4F",
+      "font-color": "#FFFFFF"
+    }
+  },
+  "aiassistant": {
+    "aiassistant-bar": {
+      "background-color": "#111111",
+      "font-color": "#FFFFFF",
+      "error-font-color": "#FFC8C3",
+      "ai-prompt": {
+        "state-default": {
+          "background-color": "#FFFFFF26",
+          "font-color": "#FFFFFF"
+        },
+        "state-active": {
+          "background-color": "#FFFFFF26",
+          "font-color": "#FFFFFF"
+        }
+      },
+      "close-icon-font-color": "#FFFFFF"
+    },
+    "aiassistant-dropdown": {
+     "background-color": "#111111",
+      "font-color": "#FFFFFF",
+      "option-background-color": "#FFFFFF26",
+      "option-font-color": "#FFFFFF",
+      "option-selected-background": "#1D58E2",
+      "option-selected-font": "#FFFFFF"
+    }
+  },
+  "gestureoverlay": {
+    "background-color": "#11111199",
+    "fallback-background": "#111111"
+  },
+  "specialoverlays": {
+    "background-color": "#111111D9",
+    "fallback-background": "#102D2F",
+    "sectiontitle": {
+      "font-color": "#E4E4E4"
+    },
+    "character": {
+      "font-color": "#F1F1F1"
+    },
+    "sidebar": {
+      "background-color": "#00000066",
+      "icon": {
+        "state-default": {
+          "color": "#E4E4E4"
+        },
+        "state-active": {
+          "color": "#FFFFFF"
+        }
+      },
+      "exit-icon": {
+        "state-default": {
+          "color": "#9F9F9F"
+        },
+        "state-active": {
+          "color": "#E0E0E0"
+        }
+      }
+    },
+    "emoji-sidebar": {
+      "background-color": "#00000066",
+      "icon": {
+        "state-default": {
+          "color": "#9F9F9F"
+        },
+        "state-active": {
+          "color": "#E4E4E4"
+        }
+      }
+    }
+  },
+  "keys": {
+    "character": {
+      "state-default": {
+        "background-color": "#000000",
+        "font-color": "#eeeeee"
+      },
+      "state-active": {
+        "background-color": "#ffffff11",
+        "font-color": "#E0E0E0"
+      }
+    },
+    "space": {
+      "state-default": {
+        "background-color": "#121212"
+      },
+      "state-active": {
+        "background-color": "#12121226"
+      }
+    },
+    "split": {
+      "top": {
+        "state-default": {
+          "background-color": "#000000af",
+          "font-color": "#FFFFFF"
+        },
+        "state-active": {
+          "background-color": "#00000026",
+          "font-color": "#FFFFFF"
+        }
+      },
+      "bottom": {
+        "state-default": {
+          "background-color": "#121212af",
+          "font-color": "#FFFFFF"
+        },
+        "state-active": {
+          "background-color": "#12121226",
+          "font-color": "#FFFFFF"
+        }
+      },
+      "tiny": {
+        "state-default": {
+          "font-color": "#FFFFFFb3"
+        },
+        "state-active": {
+          "font-color": "#FFFFFF"
+        }
+      }
+    },
+    "split_emojinumber": {
+      "top": {
+        "state-default": {
+          "background-color": "#000000af",
+          "font-color": "#FFFFFF"
+        },
+        "state-active": {
+          "background-color": "#00000026",
+          "font-color": "#FFFFFF"
+        }
+      },
+      "bottom": {
+        "state-default": {
+          "background-color": "#121212af",
+          "font-color": "#FFFFFF"
+        },
+        "state-active": {
+          "background-color": "#12121226",
+          "font-color": "#FFFFFF"
+        }
+      }
+    },
+    "caps": {
+      "hexagon": {
+        "state-default": {
+          "font-color": "#FFFFFF"
+        },
+        "state-active": {
+          "font-color": "#f3f3f3"
+        }
+      },
+      "rectangle": {
+        "state-default": {
+          "background-color": "#121212",
+          "font-color": "#f3f3f3"
+        },
+        "state-active": {
+          "background-color": "#12121226",
+          "font-color": "#f3f3f3"
+        }
+      }
+    },
+    "delete": {
+      "hexagon": {
+        "state-default": {
+          "font-color": "#FFFFFF"
+        },
+        "state-active": {
+          "font-color": "#f3f3f3"
+        }
+      },
+      "rectangle": {
+        "state-default": {
+          "background-color": "#121212",
+          "font-color": "#f3f3f3"
+        },
+        "state-active": {
+          "background-color": "#12121226",
+          "font-color": "#f3f3f3"
+        }
+      }
+    },
+    "globe": {
+      "state-default": {
+        "font-color": "#FFFFFF"
+      },
+      "state-active": {
+        "font-color": "#f3f3f3"
+      }
+    },
+    "return": {
+      "icon": "tw-return-icon",
+      "state-default": {
+        "background-color": "#121212",
+        "font-color": "#FFFFFF"
+      },
+      "state-active": {
+        "background-color": "#12121211",
+        "font-color": "#E0E0E0"
+      }
+    },
+    "morecharacters": {
+      "state-default": {
+        "background-color": "#121212af",
+        "font-color": "#FFFFFF"
+      },
+      "state-active": {
+        "background-color": "#12121226",
+        "font-color": "#FFFFFF"
+      }
+    },
+    "emoji": {
+      "state-default": {
+        "background-color": "#121212af",
+        "font-color": "#FFFFFF"
+      },
+      "state-active": {
+        "background-color": "#12121226",
+        "font-color": "#FFFFFF"
+      }
+    },
+    "moremaths": {
+      "state-default": {
+        "background-color": "#121212af",
+        "font-color": "#FFFFFF"
+      },
+      "state-active": {
+        "background-color": "#12121226",
+        "font-color": "#FFFFFF"
+      }
+    },
+    "morenumbers": {
+      "state-default": {
+        "background-color": "#121212af",
+        "font-color": "#FFFFFF"
+      },
+      "state-active": {
+        "background-color": "#12121226",
+        "font-color": "#FFFFFF"
+      }
+    },
+    "mainlayout": {
+      "state-default": {
+        "background-color": "#121212af",
+        "font-color": "#FFFFFF"
+      },
+      "state-active": {
+        "background-color": "#12121226",
+        "font-color": "#FFFFFF"
+      }
+    }
+  }
+}

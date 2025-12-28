@@ -1,0 +1,2740 @@
+{
+    "layout": {
+        "hexagon_legacy": {
+            "portrait": {
+                "columns": [
+                    {
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum1",
+                                        "default": {
+                                            "tap": "p",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum2",
+                                        "default": {
+                                            "tap": "y",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum3",
+                                        "default": {
+                                            "tap": "f",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "3"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum4",
+                                        "default": {
+                                            "tap": "c",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "4"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "a"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "e"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum5",
+                                        "default": {
+                                            "tap": "u",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "5"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum6",
+                                        "default": {
+                                            "tap": "d",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "6"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum7",
+                                        "default": {
+                                            "tap": "g",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "7"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "r"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "l"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "shift",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "o"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum8",
+                                        "default": {
+                                            "tap": "i",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "8"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum9",
+                                        "default": {
+                                            "tap": "h",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "9"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "n"
+                                    },
+                                    {
+                                        "type": "function",
+                                        "content": "backspace",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "q"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "k"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "b"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum9",
+                                        "default": {
+                                            "tap": "w",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "0"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "z"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "t"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "s"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "globe",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "j"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "x"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "m"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "v"
+                                    },
+                                    {
+                                        "type": "split_emojinumber"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "content": "return"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "portrait_numbers": {
+                "columns": [
+                    {
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special1",
+                                        "default": {
+                                            "tap": "^",
+                                            "swipeup": "~"
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "1"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "2"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "3"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "4"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special2",
+                                        "default": {
+                                            "tap": "<",
+                                            "swipeup": ">",
+                                            "hold": [
+                                                "«",
+                                                "»"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "customkey",
+                                        "id": "special3",
+                                        "default": {
+                                            "tap": "€",
+                                            "swipeup": "$",
+                                            "hold": [
+                                                "£"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special4",
+                                        "default": {
+                                            "tap": "+",
+                                            "swipeup": "=",
+                                            "hold": [
+                                                "·"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "5"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "6"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "7"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special5",
+                                        "default": {
+                                            "tap": "(",
+                                            "swipeup": "[",
+                                            "hold": [
+                                                "{"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special6",
+                                        "default": {
+                                            "tap": ")",
+                                            "swipeup": "]",
+                                            "hold": [
+                                                "}"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "shift",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "8"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "9"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "function",
+                                        "content": "backspace",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "customkey",
+                                        "id": "special7",
+                                        "default": {
+                                            "tap": "§",
+                                            "swipeup": "°"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special8",
+                                        "default": {
+                                            "tap": "-",
+                                            "swipeup": "–"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special9",
+                                        "default": {
+                                            "tap": "_"
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "0"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special10",
+                                        "default": {
+                                            "tap": "*",
+                                            "swipeup": "`"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special11",
+                                        "default": {
+                                            "tap": "/",
+                                            "swipeup": "|",
+                                            "hold": [
+                                                "\\"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special12",
+                                        "default": {
+                                            "tap": "¿",
+                                            "swipeup": "¡"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "globe",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special13",
+                                        "default": {
+                                            "tap": "&"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special14",
+                                        "default": {
+                                            "tap": "%"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special15",
+                                        "default": {
+                                            "tap": "@"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special16",
+                                        "default": {
+                                            "tap": "#"
+                                        }
+                                    },
+                                    {
+                                        "type": "split_morecharacters_mainlayout"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "content": "return"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "landscape": {
+                "maxHeight": 0.5,
+                "columns": [
+                    {
+                        "alignment": "left",
+                        "maxWidth": 0.3,
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "p"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "y"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "a"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "e"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "u"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "d"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "shift",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "o"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "i"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "q"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "k"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "b"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "w"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "globe",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "j"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "x"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "m"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "alignment": "right",
+                        "maxWidth": 0.3,
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "f"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "c"
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "d"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "g"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "r"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "l"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "h"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "n"
+                                    },
+                                    {
+                                        "type": "function",
+                                        "content": "backspace",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "w"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "z"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "t"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "s"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "v"
+                                    },
+                                    {
+                                        "type": "split_emojinumber"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "content": "return"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "hexagon": {
+            "portrait": {
+                "columns": [
+                    {
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum1",
+                                        "default": {
+                                            "tap": "p",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum2",
+                                        "default": {
+                                            "tap": "y",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum3",
+                                        "default": {
+                                            "tap": "f",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "3"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum4",
+                                        "default": {
+                                            "tap": "c",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "4"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "a"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "e"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum11",
+                                        "default": {
+                                            "tap": "i",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "5"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum12",
+                                        "default": {
+                                            "tap": "h",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "6"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum7",
+                                        "default": {
+                                            "tap": "g",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "7"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "r"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "l"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "shift",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "o"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "u"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum13",
+                                        "default": {
+                                            "tap": "d",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "8"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum14",
+                                        "default": {
+                                            "tap": "t",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "9"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "n"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "s"
+                                    },
+                                    {
+                                        "type": "function",
+                                        "content": "backspace",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "q"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "k"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "b"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum15",
+                                        "default": {
+                                            "tap": "m",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "0"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "w"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "v"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "z"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "j"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "x"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "split_emojinumber"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "content": "return"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "portrait_numbers": {
+                "columns": [
+                    {
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special1",
+                                        "default": {
+                                            "tap": "^",
+                                            "swipeup": "~"
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "1"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "2"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "3"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "4"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special2",
+                                        "default": {
+                                            "tap": "<",
+                                            "swipeup": ">",
+                                            "hold": [
+                                                "«",
+                                                "»"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "customkey",
+                                        "id": "special3",
+                                        "default": {
+                                            "tap": "€",
+                                            "swipeup": "$",
+                                            "hold": [
+                                                "£"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special4",
+                                        "default": {
+                                            "tap": "+",
+                                            "swipeup": "=",
+                                            "hold": [
+                                                "·"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "5"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "6"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "7"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special5",
+                                        "default": {
+                                            "tap": "(",
+                                            "swipeup": "[",
+                                            "hold": [
+                                                "{"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special6",
+                                        "default": {
+                                            "tap": ")",
+                                            "swipeup": "]",
+                                            "hold": [
+                                                "}"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "shift",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special7",
+                                        "default": {
+                                            "tap": "&"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special8",
+                                        "default": {
+                                            "tap": "%"
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "8"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "9"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special9",
+                                        "default": {
+                                            "tap": "#"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special10",
+                                        "default": {
+                                            "tap": "@"
+                                        }
+                                    },
+                                    {
+                                        "type": "function",
+                                        "content": "backspace",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "customkey",
+                                        "id": "special11",
+                                        "default": {
+                                            "tap": "§",
+                                            "swipeup": "°"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special12",
+                                        "default": {
+                                            "tap": "-",
+                                            "swipeup": "–"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special13",
+                                        "default": {
+                                            "tap": "_"
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "0"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special14",
+                                        "default": {
+                                            "tap": "*",
+                                            "swipeup": "`"
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special15",
+                                        "default": {
+                                            "tap": "/",
+                                            "swipeup": "|",
+                                            "hold": [
+                                                "\\"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "special16",
+                                        "default": {
+                                            "tap": "¿",
+                                            "swipeup": "¡"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "globe",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "split_morecharacters_mainlayout"
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "content": "return"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "landscape": {
+                "maxHeight": 0.5,
+                "columns": [
+                    {
+                        "alignment": "left",
+                        "maxWidth": 0.3,
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "p"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "y"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "a"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "e"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "i"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "h"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "shift",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "o"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "u"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "d"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "q"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "k"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "b"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "m"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "content": "globe",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "j"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "x"
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "alignment": "right",
+                        "maxWidth": 0.3,
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "f"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "c"
+                                    },
+                                    {
+                                        "type": "split",
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "h"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "g"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "r"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "l"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "t"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "n"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "s"
+                                    },
+                                    {
+                                        "type": "function",
+                                        "content": "backspace",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "content": "m"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "w"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "v"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "content": "z"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "space"
+                                    },
+                                    {
+                                        "type": "split_emojinumber"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "content": "return"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "rectangle": {
+            "portrait": {
+                "defaultKeyHeight": 50,
+                "columns": [
+                    {
+                        "alignment": "center",
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum1",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "p",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum2",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "y",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum3",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "f",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "3"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum16",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "g",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "4"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum17",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "c",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "5"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum18",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "r",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "6"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum19",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "l",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "7"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum20",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "n",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "8"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum21",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "s",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "9"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "a"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "o"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "e"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "u"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum22",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "i",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "0"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "d"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "h"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "t"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "v"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "z"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "width": 1.25,
+                                        "content": "shift"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "q"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "j"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "k"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "x"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "b"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "m"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "w"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "function",
+                                        "width": 1.25,
+                                        "content": "backspace"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "split_emojinumber",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "split",
+                                        "width": 1.25,
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "space",
+                                        "width": 5
+                                    },
+                                    {
+                                        "type": "split",
+                                        "width": 1.25,
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "width": 1.25,
+                                        "content": "return"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "numbers": {
+                "defaultKeyHeight": 50,
+                "columns": [
+                    {
+                        "alignment": "center",
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "1"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "2"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "3"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "4"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "5"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "6"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "7"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "8"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "9"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers1",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "-",
+                                            "swipeup": "–",
+                                            "hold": [
+                                                "_"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers2",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "/",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "\""
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers3",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": ":",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers4",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": ";",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers5",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "(",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers6",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": ")",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers7",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "&",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "§"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers8",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "@",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "§"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers9",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "%",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "moremaths",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers10",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": ".",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "…"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers11",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": ",",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers12",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "„",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "‚",
+                                                "»",
+                                                "›",
+                                                "“",
+                                                "‘"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers15",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "?",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "¿"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers13",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "\"",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "‘",
+                                                "«",
+                                                "‹",
+                                                "”",
+                                                "’"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers14",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "'",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers16",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "!",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "¡"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "function",
+                                        "width": 1.25,
+                                        "content": "backspace"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "mainlayout",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "space",
+                                        "width": 5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "shopnomix1",
+                                        "width": 1.25,
+                                        "default": {
+                                            "tap": ".",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "!",
+                                                "?",
+                                                ":",
+                                                ","
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "return",
+                                        "width": 1.25,
+                                        "content": "return"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "math": {
+                "defaultKeyHeight": 50,
+                "columns": [
+                    {
+                        "alignment": "center",
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers17",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "[",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers18",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "]",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers19",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "{",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers20",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "}",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers21",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "#",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers22",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "%",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "‰"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers23",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "^",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers24",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "*",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers36",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "+",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers25",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "=",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers26",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "_",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers27",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "\\",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers37",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "|",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers28",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "~",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers29",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "<",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers29",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": ">",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "currency1",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "$",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "¥",
+                                                "¢",
+                                                "₽",
+                                                "₱",
+                                                "₺",
+                                                "₴"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "currency1",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "£",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "₦",
+                                                "₹",
+                                                "₩",
+                                                "฿",
+                                                "₫"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "currency1",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "€",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "₪",
+                                                "Ł",
+                                                "Ξ",
+                                                "₿",
+                                                "ɱ"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "morenumbers",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers30",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "×",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers31",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "÷",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers32",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "≠",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers33",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "π",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers34",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "∞",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers35",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "‰",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "numbers36",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "±",
+                                            "swipeup": null,
+                                            "hold": null
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "function",
+                                        "width": 1.25,
+                                        "content": "backspace"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "mainlayout",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "space",
+                                        "width": 5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "shopnomix1",
+                                        "width": 1.25,
+                                        "default": {
+                                            "tap": ".",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "!",
+                                                "?",
+                                                ":",
+                                                ","
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "return",
+                                        "width": 1.25,
+                                        "content": "return"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "landscape": {
+                "defaultKeyHeight": 50,
+                "columns": [
+                    {
+                        "alignment": "center",
+                        "rows": [
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum1",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "p",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum2",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "y",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum3",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "f",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "3"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum16",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "g",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "4"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum17",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "c",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "5"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum18",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "r",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "6"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum19",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "l",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "7"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum20",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "n",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "8"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum21",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "s",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "9"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "a"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "o"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "e"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "u"
+                                    },
+                                    {
+                                        "type": "customkey",
+                                        "id": "dvoraknum22",
+                                        "width": 1,
+                                        "default": {
+                                            "tap": "i",
+                                            "swipeup": null,
+                                            "hold": [
+                                                "0"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "d"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "h"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "t"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "v"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "z"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "function",
+                                        "width": 1.25,
+                                        "content": "shift"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "q"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "j"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "k"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "x"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "b"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "m"
+                                    },
+                                    {
+                                        "type": "character",
+                                        "width": 1,
+                                        "content": "w"
+                                    },
+                                    {
+                                        "type": "empty",
+                                        "width": 0.25
+                                    },
+                                    {
+                                        "type": "function",
+                                        "width": 1.25,
+                                        "content": "backspace"
+                                    }
+                                ]
+                            },
+                            {
+                                "rowItems": [
+                                    {
+                                        "type": "split_emojinumber",
+                                        "width": 1.25
+                                    },
+                                    {
+                                        "type": "split",
+                                        "width": 1.25,
+                                        "id": "split1"
+                                    },
+                                    {
+                                        "type": "space",
+                                        "width": 5
+                                    },
+                                    {
+                                        "type": "split",
+                                        "width": 1.25,
+                                        "id": "split2"
+                                    },
+                                    {
+                                        "type": "return",
+                                        "width": 1.25,
+                                        "content": "return"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
