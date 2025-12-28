@@ -1,0 +1,54 @@
+package org.apache.cordova;
+
+import android.app.Activity;
+import android.content.Context;
+import java.util.List;
+
+@Deprecated
+public class Config {
+    private static final String TAG = "Config";
+    static ConfigXmlParser parser;
+
+    private Config() {
+    }
+
+    public static String getErrorUrl() {
+        return parser.getPreferences().getString("errorurl", (String) null);
+    }
+
+    public static List<PluginEntry> getPluginEntries() {
+        return parser.getPluginEntries();
+    }
+
+    public static CordovaPreferences getPreferences() {
+        return parser.getPreferences();
+    }
+
+    public static String getStartUrl() {
+        ConfigXmlParser configXmlParser = parser;
+        if (configXmlParser == null) {
+            return "file:///android_asset/www/index.html";
+        }
+        return configXmlParser.getLaunchUrl();
+    }
+
+    public static void init(Activity activity) {
+        ConfigXmlParser configXmlParser = new ConfigXmlParser();
+        parser = configXmlParser;
+        configXmlParser.parse((Context) activity);
+        parser.getPreferences().setPreferencesBundle(activity.getIntent().getExtras());
+    }
+
+    public static boolean isInitialized() {
+        if (parser != null) {
+            return true;
+        }
+        return false;
+    }
+
+    public static void init() {
+        if (parser == null) {
+            parser = new ConfigXmlParser();
+        }
+    }
+}
