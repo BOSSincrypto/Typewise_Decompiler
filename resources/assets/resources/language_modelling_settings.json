@@ -1,0 +1,189 @@
+{
+  "standard_languages_default": [
+    "da", "de", "de-ch", "en", "en-gb", "es", "fr", "fr-ca", "fr-ch", "it", "nl", "nl-be", "no", "pt-br", "pt", "sv"
+  ],
+  "to_be_recognized_only_languages_default": [],
+  "noisy_prefix_technique": "beam-search-k5-noisy_prefix-filtnotwordlst",
+  "use_tf_lite": true,
+  "lang_to_model_names": {
+    "da": {
+      "word_completion_model_name": "l=da-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=da-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "da_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "da_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=da-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "de": {
+      "word_completion_model_name": "l=de-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=de-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "de_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "de_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=de-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "de-ch": {
+      "word_completion_model_name": "l=de-ch-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=de-ch-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "de-ch_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "de-ch_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=de-ch-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "en": {
+      "word_completion_model_name": "l=en-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=en-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "en_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "en_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=en-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "en-gb": {
+      "word_completion_model_name": "l=en-gb-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=en-gb-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "en-gb_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "en-gb_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=en-gb-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "es": {
+      "word_completion_model_name": "l=es-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=es-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "es_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "es_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=es-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "fr": {
+      "word_completion_model_name": "l=fr-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=fr-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "fr_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "fr_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=fr-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "fr-ca": {
+      "word_completion_model_name": "l=fr-ca-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=fr-ca-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "fr-ca_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "fr-ca_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=fr-ca-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "fr-ch": {
+      "word_completion_model_name": "l=fr-ch-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=fr-ch-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "fr-ch_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "fr-ch_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=fr-ch-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "it": {
+      "word_completion_model_name": "l=it-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=it-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "it_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "it_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=it-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "nl": {
+      "word_completion_model_name": "l=nl-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=nl-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "nl_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "nl_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=nl-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "nl-be": {
+      "word_completion_model_name": "l=nl-be-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=nl-be-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "nl-be_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "nl-be_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=nl-be-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "no": {
+      "word_completion_model_name": "l=no-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=no-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "no_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "no_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=no-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "pt-br": {
+      "word_completion_model_name": "l=pt-br-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=pt-br-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "pt-br_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "pt-br_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=pt-br-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "pt": {
+      "word_completion_model_name": "l=pt-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=pt-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "pt_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "pt_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=pt-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    },
+    "sv": {
+      "word_completion_model_name": "l=sv-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_model_name": "l=sv-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt",
+      "sentence_completion_combination_model_settings": {
+        "model_name_to_inference_technique": {
+          "sv_enron_naive_modified_for_demo_2.0": "sentence-alpha1.0-reqprefcert20.0-filtshorter2",
+          "sv_traineddemo_naive_ngrams_at_v1.1_default": "sentence-alpha1.0-reqprefcert90.0-filtshorter4",
+          "l=sv-c=basemodelstraining-v=v0.01.01-d=512-t=neural_single_ckpt": "greedy-multiword6-alpha1.0-filtshorter4-filtprob0.45-filtnotwordlst"
+        }
+      }
+    }
+  },
+  "use_unknown_in_language_detection": true,
+  "to_be_filtered_out_full_predictions": {},
+  "regexes_to_clean_lang_recognition_text": []
+}

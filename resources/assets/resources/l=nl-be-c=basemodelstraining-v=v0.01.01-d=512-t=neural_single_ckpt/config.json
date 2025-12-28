@@ -1,0 +1,107 @@
+{
+  "model": {
+    "kind": "neural",
+    "emb_dim": 256,
+    "state_dim": 512,
+    "rnn_type": "gru",
+    "use_embedding": false,
+    "checkpoint_hash": "32ea81bcdbed32da24b83ec16a60fb2f"
+  },
+  "training": {
+    "training_data": [
+      "v0.01/nl/Output/lmdiscussionbased/nl"
+    ],
+    "eval_data": [
+      "v0.01/nl/Output/lmdiscussionbased/nl"
+    ],
+    "buffer_size": 1000,
+    "sentence_len": 500,
+    "patience": 7,
+    "early_stopping_metric": "eval_loss",
+    "max_grad_norm": 1.0,
+    "n_epochs": 75,
+    "lr": 0.0005,
+    "lr_decay": 1.0,
+    "batch_size": 128,
+    "evaluate_every": 35000,
+    "optimizer": "adam",
+    "final_decayed_lr": 0.0,
+    "restart_from_checkpoint": false,
+    "masking_behaviour": {
+      "opening_signatures": {
+        "result": "masked"
+      },
+      "link": {
+        "result": "masked"
+      },
+      "email": {
+        "result": "masked"
+      },
+      "ignored_lines": {
+        "result": "masked"
+      },
+      "company_specific_entities": {
+        "result": "masked"
+      },
+      "snippets": {
+        "result": "masked"
+      },
+      "numbers": {
+        "result": "unmasked"
+      },
+      "pii_ORG": {
+        "result": "unmasked"
+      },
+      "pii_PER": {
+        "result": "masked"
+      },
+      "pii_LOC": {
+        "result": "masked"
+      },
+      "pii_client_name": {
+        "result": "masked"
+      },
+      "wordlist_firstnames": {
+        "result": "masked"
+      },
+      "wordlist_surnames": {
+        "result": "masked"
+      }
+    }
+  },
+  "inference": {
+    "lang_code": "nl-be",
+    "inference_technique": "beam-search-k5-ll_sum-beamscore-filtnotwordlst",
+    "max_steps_per_single_word": 20,
+    "seq_len_test": 64,
+    "do_filter_empty_predictions": false,
+    "stop_tokens": [
+      " ",
+      ".",
+      ",",
+      ":",
+      ";",
+      "!",
+      "?",
+      "(",
+      ")",
+      "\"",
+      "/",
+      "\n"
+    ],
+    "end_of_sequence_tokens": [
+      "\n"
+    ]
+  },
+  "preprocessing": {
+    "lowercase": false,
+    "level": "character",
+    "vocabulary": "l=nl-be_v=5.0_c=mixed_charvocab",
+    "process_samples_approach": "dropdocs",
+    "start_token": "⟫",
+    "unk_token": "△",
+    "end_token": "⟪",
+    "pad_token": "╳",
+    "map_stop_tokens_to_space": false
+  }
+}
