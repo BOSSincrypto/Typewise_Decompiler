@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktypewise=self.webpackChunktypewise||[]).push([[9212],{99212:function(e,t,n){n.r(t),n.d(t,{RateAppWeb:function(){return r}});var s=n(8239),u=n(68384);class r extends u.Uw{requestReview(){return(0,s.Z)(function*(){})()}}}}]);
