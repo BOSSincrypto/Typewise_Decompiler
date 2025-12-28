@@ -1,0 +1,11 @@
+package com.getcapacitor.plugin.util;
+
+import java.io.InputStream;
+
+public interface ICapacitorHttpUrlConnection {
+    InputStream getErrorStream();
+
+    String getHeaderField(String str);
+
+    InputStream getInputStream();
+}
