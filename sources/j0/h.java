@@ -1,0 +1,26 @@
+package j0;
+
+import k0.C0700h;
+import kotlin.jvm.internal.o;
+import l0.v;
+
+public final class h extends C0686c {
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public h(C0700h hVar) {
+        super(hVar);
+        o.e(hVar, "tracker");
+    }
+
+    public boolean b(v vVar) {
+        o.e(vVar, "workSpec");
+        return vVar.f14479j.i();
+    }
+
+    public /* bridge */ /* synthetic */ boolean c(Object obj) {
+        return i(((Boolean) obj).booleanValue());
+    }
+
+    public boolean i(boolean z3) {
+        return !z3;
+    }
+}
