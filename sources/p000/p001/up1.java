@@ -1,0 +1,414 @@
+package p000.p001;
+
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.Context;
+import android.content.Intent;
+import android.content.pm.ApplicationInfo;
+import android.content.pm.PackageInfo;
+import android.content.res.ColorStateList;
+import android.graphics.Color;
+import android.graphics.drawable.GradientDrawable;
+import android.net.Uri;
+import android.os.Build;
+import android.text.Html;
+import android.text.Spannable;
+import android.text.method.LinkMovementMethod;
+import android.text.style.URLSpan;
+import android.util.Log;
+import android.view.View;
+import android.widget.CheckBox;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.Random;
+import p000.p001.up;
+
+/* renamed from: ī.íì.up1  reason: invalid package */
+class up1 implements Runnable {
+    private final Context val$ctx;
+    private final StringBuilder val$sb2;
+    private final StringBuilder val$sb4;
+    private final StringBuilder val$sb5;
+    private final StringBuilder val$sb6;
+    private final StringBuilder val$sb7;
+    private final StringBuilder val$sb8;
+    private final StringBuilder val$sb9;
+
+    up1(Context context, StringBuilder sb, StringBuilder sb2, StringBuilder sb3, StringBuilder sb4, StringBuilder sb5, StringBuilder sb6, StringBuilder sb7) {
+        this.val$ctx = context;
+        this.val$sb9 = sb;
+        this.val$sb6 = sb2;
+        this.val$sb2 = sb3;
+        this.val$sb4 = sb4;
+        this.val$sb5 = sb5;
+        this.val$sb7 = sb6;
+        this.val$sb8 = sb7;
+    }
+
+    @Override
+    public void run() {
+        String str;
+        String str2;
+        Activity activity = (Activity) this.val$ctx;
+        ArrayList arrayList = new ArrayList();
+        try {
+            HttpURLConnection httpURLConnection = (HttpURLConnection) new URL(this.val$sb9.toString()).openConnection();
+            httpURLConnection.setConnectTimeout(60000);
+            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(httpURLConnection.getInputStream()));
+            while (true) {
+                String readLine = bufferedReader.readLine();
+                if (readLine == null) {
+                    break;
+                }
+                arrayList.add(readLine);
+            }
+            bufferedReader.close();
+            int i4 = 64;
+            if (Build.VERSION.SDK_INT >= 28) {
+                i4 = 134217728;
+            }
+            ApplicationInfo applicationInfo = this.val$ctx.getApplicationInfo();
+            PackageInfo packageInfo = this.val$ctx.getPackageManager().getPackageInfo(this.val$ctx.getPackageName(), i4);
+            if (applicationInfo != null) {
+                String stringBuffer = new StringBuffer().append("v").append(packageInfo.versionName).toString();
+                if (Build.VERSION.SDK_INT >= 28) {
+                    str = String.valueOf(packageInfo.getLongVersionCode());
+                    str2 = stringBuffer;
+                } else {
+                    str = String.valueOf(packageInfo.versionCode);
+                    str2 = stringBuffer;
+                }
+            } else {
+                str = "";
+                str2 = "";
+            }
+            StringBuilder sb = new StringBuilder();
+            float[] fArr = {9.0f, 12.5f};
+            for (float f4 : fArr) {
+                sb.append((char) ((int) (f4 * 4.0f)));
+            }
+            float[] v3 = new up.ok().v();
+            StringBuilder sb2 = new StringBuilder();
+            for (float f5 : v3) {
+                sb2.append((char) ((int) (f5 * 4.0f)));
+            }
+            String replaceAll = ((String) arrayList.get(0)).replaceAll(sb2.toString(), sb.toString());
+            float[] vc = new up.ok().vc();
+            StringBuilder sb3 = new StringBuilder();
+            for (float f6 : vc) {
+                sb3.append((char) ((int) (f6 * 4.0f)));
+            }
+            String replaceAll2 = ((String) arrayList.get(1)).replaceAll(sb3.toString(), sb.toString());
+            float[] u3 = new up.ok().u();
+            StringBuilder sb4 = new StringBuilder();
+            for (float f7 : u3) {
+                sb4.append((char) ((int) (f7 * 4.0f)));
+            }
+            StringBuilder sb5 = new StringBuilder();
+            float[] bb = new up.ok().bb();
+            for (float f8 : bb) {
+                sb5.append((char) ((int) (f8 * 4.0f)));
+            }
+            float[] fArr2 = {12.25f, 27.25f, 27.75f, 25.0f, 11.5f, 24.75f, 27.75f};
+            StringBuilder sb6 = new StringBuilder();
+            for (float f9 : fArr2) {
+                sb6.append((char) ((int) (f9 * 4.0f)));
+            }
+            float[] fArr3 = {14.25f, 27.25f, 27.75f, 25.0f, 11.5f, 24.75f, 27.75f, 27.25f};
+            StringBuilder sb7 = new StringBuilder();
+            for (float f10 : fArr3) {
+                sb7.append((char) ((int) (f10 * 4.0f)));
+            }
+            this.val$sb6.toString();
+            String sb8 = ((String) arrayList.get(2)) == null ? this.val$sb6.toString() : ((String) arrayList.get(2)).replaceAll(sb4.toString(), sb.toString());
+            String replaceAll3 = ((String) arrayList.get(2)) == "" ? sb8 : ((String) arrayList.get(2)).replaceAll(sb4.toString(), sb.toString());
+            String str3 = replaceAll3.equals((String) arrayList.get(2)) ? sb8 : replaceAll3;
+            if (!str3.contains(sb5.toString()) && !str3.contains(sb6.toString()) && !str3.contains(sb7.toString())) {
+                str3 = this.val$sb6.toString();
+            }
+            Uri parse = Uri.parse(str3);
+            AlertDialog create = new AlertDialog.Builder(this.val$ctx).create();
+            LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(-1, -2);
+            layoutParams.gravity = 17;
+            layoutParams.weight = 1.0f;
+            LinearLayout linearLayout = new LinearLayout(this.val$ctx);
+            TextView textView = new TextView(this.val$ctx);
+            TextView textView2 = new TextView(this.val$ctx);
+            LinearLayout linearLayout2 = new LinearLayout(this.val$ctx);
+            TextView textView3 = new TextView(this.val$ctx);
+            TextView textView4 = new TextView(this.val$ctx);
+            TextView textView5 = new TextView(this.val$ctx);
+            TextView textView6 = new TextView(this.val$ctx);
+            boolean parseBoolean = Boolean.parseBoolean(new up.ctr().en()[0]);
+            boolean parseBoolean2 = Boolean.parseBoolean(new up.ctr().en()[1]);
+            boolean parseBoolean3 = Boolean.parseBoolean(new up.ctr().en()[2]);
+            StringBuilder sb9 = new StringBuilder();
+            float[] fArr4 = {17.0f, 27.75f, 27.5f, 29.0f, 8.0f, 28.75f, 26.0f, 27.75f, 29.75f, 8.0f, 24.25f, 25.75f, 24.25f, 26.25f, 27.5f};
+            for (float f11 : fArr4) {
+                sb9.append((char) ((int) (f11 * 4.0f)));
+            }
+            CheckBox checkBox = new CheckBox(this.val$ctx);
+            checkBox.setLayoutParams(layoutParams);
+            checkBox.setText(sb9);
+            checkBox.setTextColor(-65536);
+            checkBox.setTypeface(textView.getTypeface(), 1);
+            if (Build.VERSION.SDK_INT >= 21) {
+                checkBox.setButtonTintList(new ColorStateList(new int[][]{new int[]{16842912}, new int[0]}, new int[]{-1, -1}));
+            }
+            textView.setGravity(17);
+            textView.setLayoutParams(layoutParams);
+            textView.setText(this.val$sb2);
+            textView2.setLayoutParams(layoutParams);
+            StringBuilder sb10 = new StringBuilder();
+            float[] fArr5 = {19.25f, 25.25f, 28.75f, 28.75f, 24.25f, 25.75f, 25.25f, 15.25f};
+            for (float f12 : fArr5) {
+                sb10.append((char) ((int) (f12 * 4.0f)));
+            }
+            StringBuilder sb11 = new StringBuilder();
+            float[] fArr6 = {22.75f, 29.5f, 25.25f, 28.5f, 28.75f, 26.25f, 27.75f, 27.5f, 23.25f};
+            for (float f13 : fArr6) {
+                sb11.append((char) ((int) (f13 * 4.0f)));
+            }
+            StringBuilder sb12 = new StringBuilder();
+            float[] fArr7 = {22.75f, 24.75f, 27.75f, 25.0f, 25.25f, 23.25f};
+            for (float f14 : fArr7) {
+                sb12.append((char) ((int) (f14 * 4.0f)));
+            }
+            StringBuilder sb13 = new StringBuilder();
+            float[] fArr8 = {10.0f};
+            for (float f15 : fArr8) {
+                sb13.append((char) ((int) (f15 * 4.0f)));
+            }
+            StringBuilder sb14 = new StringBuilder();
+            float[] fArr9 = {10.25f};
+            for (float f16 : fArr9) {
+                sb14.append((char) ((int) (f16 * 4.0f)));
+            }
+            StringBuilder sb15 = new StringBuilder();
+            float[] fArr10 = {24.25f, 27.5f, 25.0f, 28.5f, 27.75f, 26.25f, 25.0f, 11.5f, 29.0f, 25.25f, 30.0f, 29.0f, 11.5f, 28.75f, 29.0f, 30.25f, 27.0f, 25.25f, 11.5f, 21.25f, 20.5f, 19.0f, 20.75f, 28.0f, 24.25f, 27.5f};
+            for (float f17 : fArr10) {
+                sb15.append((char) ((int) (f17 * 4.0f)));
+            }
+            String stringBuffer2 = new StringBuffer().append(new StringBuffer().append(new StringBuffer().append(new StringBuffer().append(new StringBuffer().append(this.val$sb4).append(replaceAll).toString()).append("(").toString()).append(replaceAll2).toString()).append(")").toString()).append(this.val$sb5).toString();
+            Spannable spannable = Build.VERSION.SDK_INT >= 24 ? (Spannable) Html.fromHtml(stringBuffer2, 0) : (Spannable) Html.fromHtml(stringBuffer2);
+            URLSpan[] uRLSpanArr = (URLSpan[]) spannable.getSpans(0, spannable.length(), Class.forName(sb15.toString()));
+            for (URLSpan uRLSpan : uRLSpanArr) {
+                spannable.setSpan(new up.und(), spannable.getSpanStart(uRLSpan), spannable.getSpanEnd(uRLSpan), 0);
+            }
+            textView2.setText(spannable);
+            textView2.setMovementMethod(LinkMovementMethod.getInstance());
+            textView2.setGravity(17);
+            textView6.setGravity(17);
+            textView3.setText(this.val$sb7);
+            textView4.setText(this.val$sb8);
+            textView.setPadding(0, 0, 0, 50);
+            textView2.setPadding(0, 0, 0, 10);
+            textView6.setPadding(0, 0, 0, 50);
+            textView.setTextSize(20.0f);
+            textView.setTextColor(Color.parseColor("#ff0092ff"));
+            textView.setTypeface(textView.getTypeface(), 1);
+            textView2.setTextSize(16.0f);
+            String[] strArr = {"#FFBF00", "#DF3A01", "#04B486", "#DF01D7", "#fc00fc", "#9A2EFE", "#31B404", "#ff0092ff", "#0040FF"};
+            String str4 = strArr[new Random().nextInt(strArr.length)];
+            textView2.setTextColor(-1);
+            textView6.setTextSize(16.0f);
+            textView6.setTextColor(Color.parseColor("#ffffff"));
+            textView3.setTextSize(15.0f);
+            textView3.setPadding(25, 7, 25, 7);
+            textView3.setGravity(17);
+            textView3.setTextColor(Color.parseColor("#ffffff"));
+            textView3.setTypeface(textView3.getTypeface(), 1);
+            textView4.setTextSize(15.0f);
+            textView4.setPadding(25, 7, 25, 7);
+            textView4.setGravity(17);
+            textView4.setTextColor(Color.parseColor("#ffffff"));
+            textView4.setTypeface(textView4.getTypeface(), 1);
+            textView3.setBackgroundDrawable(new GradientDrawable(this) {
+                private final up1 this$0;
+
+                {
+                    this.this$0 = r1;
+                }
+
+                static up1 access$0(AnonymousClass100000006 r12) {
+                    return r12.this$0;
+                }
+
+                public GradientDrawable getIns(int i4, int i5) {
+                    setCornerRadius((float) i4);
+                    setColor(i5);
+                    return this;
+                }
+            }.getIns(15, Color.parseColor(str4)));
+            textView4.setBackgroundDrawable(new GradientDrawable(this) {
+                private final up1 this$0;
+
+                {
+                    this.this$0 = r1;
+                }
+
+                static up1 access$0(AnonymousClass100000007 r12) {
+                    return r12.this$0;
+                }
+
+                public GradientDrawable getIns(int i4, int i5) {
+                    setCornerRadius((float) i4);
+                    setColor(i5);
+                    return this;
+                }
+            }.getIns(15, Color.parseColor(str4)));
+            linearLayout2.setPadding(0, 20, 0, 0);
+            linearLayout2.setOrientation(0);
+            LinearLayout.LayoutParams layoutParams2 = new LinearLayout.LayoutParams(-1, -2);
+            layoutParams2.gravity = 16;
+            layoutParams2.weight = 1.0f;
+            layoutParams2.setMargins(20, 0, 20, 0);
+            LinearLayout.LayoutParams layoutParams3 = new LinearLayout.LayoutParams(-1, -2);
+            layoutParams3.gravity = 17;
+            layoutParams3.weight = 1.0f;
+            linearLayout2.setLayoutParams(layoutParams3);
+            textView5.setLayoutParams(layoutParams3);
+            textView3.setGravity(17);
+            linearLayout.setBackgroundColor(-16777216);
+            linearLayout2.setBackgroundColor(0);
+            if (!parseBoolean && parseBoolean2) {
+                linearLayout.addView(textView, 0);
+                linearLayout.addView(textView2, 1);
+                linearLayout.addView(linearLayout2, 2);
+                linearLayout2.addView(textView5, 0);
+                linearLayout2.addView(textView4, 1);
+            } else if (parseBoolean2 || !parseBoolean) {
+                linearLayout.addView(textView, 0);
+                linearLayout.addView(textView2, 1);
+                linearLayout.addView(checkBox, 2);
+                linearLayout.addView(linearLayout2, 3);
+                linearLayout2.addView(textView3, 0);
+                linearLayout2.addView(textView5, 1);
+                linearLayout2.addView(textView4, 2);
+            } else if (!parseBoolean3) {
+                linearLayout.addView(textView, 0);
+                linearLayout.addView(textView2, 1);
+                linearLayout.addView(linearLayout2, 2);
+                linearLayout2.addView(textView5, 0);
+                linearLayout2.addView(textView4, 1);
+            } else {
+                linearLayout.addView(textView, 0);
+                linearLayout.addView(textView2, 1);
+                linearLayout.addView(linearLayout2, 2);
+                linearLayout2.addView(textView3, 0);
+                linearLayout2.addView(textView5, 1);
+                linearLayout2.addView(textView4, 2);
+            }
+            linearLayout.setPadding(50, 50, 50, 50);
+            linearLayout.setElevation(4.0f);
+            linearLayout.setOrientation(1);
+            linearLayout.setLayoutParams(layoutParams2);
+            create.setView(linearLayout, 0, 0, 0, 0);
+            create.setCancelable(false);
+            create.requestWindowFeature(1);
+            create.getWindow().setSoftInputMode(3);
+            StringBuilder sb16 = new StringBuilder();
+            float[] fArr11 = {24.25f, 27.5f, 25.0f, 28.5f, 27.75f, 26.25f, 25.0f, 11.5f, 26.25f, 27.5f, 29.0f, 25.25f, 27.5f, 29.0f, 11.5f, 24.25f, 24.75f, 29.0f, 26.25f, 27.75f, 27.5f, 11.5f, 21.5f, 18.25f, 17.25f, 21.75f};
+            for (float f18 : fArr11) {
+                sb16.append((char) ((int) (f18 * 4.0f)));
+            }
+            textView4.setOnClickListener(new View.OnClickListener(this, create, activity, sb16, parse) {
+                private final up1 this$0;
+                private final Activity val$activity;
+                private final AlertDialog val$create;
+                private final Uri val$parse;
+                private final StringBuilder val$sb18;
+
+                {
+                    this.this$0 = r1;
+                    this.val$create = r2;
+                    this.val$activity = r3;
+                    this.val$sb18 = r4;
+                    this.val$parse = r5;
+                }
+
+                static up1 access$0(AnonymousClass100000008 r12) {
+                    return r12.this$0;
+                }
+
+                @Override
+                public void onClick(View view) {
+                    this.val$create.dismiss();
+                    this.val$activity.startActivity(new Intent(this.val$sb18.toString(), this.val$parse));
+                }
+            });
+            textView3.setOnClickListener(new View.OnClickListener(this, parseBoolean, create, checkBox, this.val$ctx) {
+                private final up1 this$0;
+                private final CheckBox val$checkBox;
+                private final AlertDialog val$create;
+                private final Context val$ctx;
+                private final boolean val$parseBoolean;
+
+                {
+                    this.this$0 = r1;
+                    this.val$parseBoolean = r2;
+                    this.val$create = r3;
+                    this.val$checkBox = r4;
+                    this.val$ctx = r5;
+                }
+
+                static up1 access$0(AnonymousClass100000009 r12) {
+                    return r12.this$0;
+                }
+
+                @Override
+                public void onClick(View view) {
+                    if (!this.val$parseBoolean) {
+                        this.val$create.dismiss();
+                    } else if (this.val$checkBox.isChecked()) {
+                        this.val$create.dismiss();
+                        this.val$ctx.getSharedPreferences("", 0).edit().putBoolean("dont", true).commit();
+                    } else {
+                        this.val$create.dismiss();
+                        this.val$ctx.getSharedPreferences("", 0).edit().putBoolean("dont", false).commit();
+                    }
+                }
+            });
+            StringBuilder sb17 = new StringBuilder();
+            float[] fArr12 = {24.25f, 27.5f, 25.0f, 28.5f, 27.75f, 26.25f, 25.0f, 11.5f, 24.25f, 28.0f, 28.0f, 11.5f, 17.0f, 26.25f, 24.25f, 27.0f, 27.75f, 25.75f};
+            for (float f19 : fArr12) {
+                sb17.append((char) ((int) (f19 * 4.0f)));
+            }
+            StringBuilder sb18 = new StringBuilder();
+            float[] fArr13 = {28.75f, 26.0f, 27.75f, 29.75f};
+            for (float f20 : fArr13) {
+                sb18.append((char) ((int) (f20 * 4.0f)));
+            }
+            if (!"show".equals(sb18.toString())) {
+                throw null;
+            }
+            StringBuilder sb19 = new StringBuilder();
+            float[] fArr14 = {26.25f, 28.75f, 20.75f, 26.0f, 27.75f, 29.75f, 26.25f, 27.5f, 25.75f};
+            for (float f21 : fArr14) {
+                sb19.append((char) ((int) (f21 * 4.0f)));
+            }
+            boolean booleanValue = ((Boolean) Class.forName(sb17.toString()).getDeclaredMethod(sb19.toString(), new Class[0]).invoke(create, new Object[0])).booleanValue();
+            if (!replaceAll.equals(str2) && !booleanValue) {
+                Class.forName(sb17.toString()).getDeclaredMethod(sb18.toString(), new Class[0]).invoke(create, new Object[0]);
+            }
+            if (!replaceAll2.equals(str) && !booleanValue) {
+                Class.forName(sb17.toString()).getDeclaredMethod(sb18.toString(), new Class[0]).invoke(create, new Object[0]);
+            }
+            StringBuilder sb20 = new StringBuilder();
+            float[] fArr15 = {26.0f, 26.25f, 25.0f, 25.25f};
+            for (float f22 : fArr15) {
+                sb20.append((char) ((int) (f22 * 4.0f)));
+            }
+            if ("show".equals(sb20.toString())) {
+                throw null;
+            }
+        } catch (Exception e4) {
+            Log.e("", e4.getMessage());
+        }
+    }
+}
