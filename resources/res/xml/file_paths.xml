@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <external-path name="my_images" path="."/>
+    <cache-path name="my_cache_images" path="."/>
+    <files-path name="Dictionary" path="Dictionary/"/>
+    <files-path name="logs" path="logs/"/>
+</paths>
