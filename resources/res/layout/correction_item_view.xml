@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="17sp" android:ellipsize="none" android:id="@+id/tv_correction" android:paddingTop="2.3dp" android:paddingBottom="2.3dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:drawablePadding="@dimen/padding_xsmall" android:textAlignment="center" android:paddingStart="@dimen/padding_standard" android:paddingEnd="@dimen/padding_standard"/>
+</merge>

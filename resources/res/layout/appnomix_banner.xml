@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="#1d58e2" android:layout_width="match_parent" android:layout_height="@dimen/banner_height">
+    <TextView android:id="@+id/tv_banner_text" android:drawablePadding="@dimen/banner_drawable_padding" android:drawableEnd="@drawable/arrow" android:layout_marginStart="@dimen/banner_margin_start" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/BannerTextStyle"/>
+    <ImageView android:id="@+id/iv_close" android:contentDescription="@string/content_description_close_banner" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0" style="@style/BannerIconStyle"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

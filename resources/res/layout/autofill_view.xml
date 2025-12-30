@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="@dimen/smart_bar_height" android:baselineAligned="false">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/pinned_suggestions_start" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="0"/>
+    <ch.icoaching.wrio.keyboard.view.autofill.ClippedAutoFillSuggestionsView android:id="@+id/scrollable_suggestions_clip" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="1" android:paddingStart="@dimen/autofill_view_padding" android:paddingEnd="@dimen/autofill_view_padding">
+        <HorizontalScrollView android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="match_parent">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/scrollable_suggestions" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+        </HorizontalScrollView>
+    </ch.icoaching.wrio.keyboard.view.autofill.ClippedAutoFillSuggestionsView>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/pinned_suggestions_end" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="0"/>
+</LinearLayout>
