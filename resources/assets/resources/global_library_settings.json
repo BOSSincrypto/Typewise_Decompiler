@@ -54,10 +54,11 @@
     "sk",
     "sl",
     "sq",
-    "sr",
-    "sv",
-    "tr"
-  ],
+      "sr",
+      "sv",
+      "tr",
+      "ru"
+    ],
   "kmp_library_specific_settings": {
     "use_wasm_damerau_levenshtein_on_js_platform": false,
     "forced_casing_in_word_by_word_correction": true

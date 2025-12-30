@@ -1,0 +1,188 @@
+{
+  "layout": {
+    "traditional": {
+      "portrait": {
+        "columns": [
+          {
+            "rows": [
+              {
+                "rowItems": [
+                  {"type": "character", "content": "й"},
+                  {"type": "character", "content": "ц"},
+                  {"type": "character", "content": "у"},
+                  {"type": "character", "content": "к"},
+                  {"type": "customkey", "id": "trad_e", "default": {"tap": "е", "swipeup": "ё"}},
+                  {"type": "character", "content": "н"},
+                  {"type": "character", "content": "г"},
+                  {"type": "character", "content": "ш"},
+                  {"type": "character", "content": "щ"},
+                  {"type": "character", "content": "з"},
+                  {"type": "character", "content": "х"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "character", "content": "ф"},
+                  {"type": "character", "content": "ы"},
+                  {"type": "character", "content": "в"},
+                  {"type": "character", "content": "а"},
+                  {"type": "character", "content": "п"},
+                  {"type": "character", "content": "р"},
+                  {"type": "character", "content": "о"},
+                  {"type": "character", "content": "л"},
+                  {"type": "character", "content": "д"},
+                  {"type": "character", "content": "ж"},
+                  {"type": "character", "content": "э"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "function", "width": 1.5, "content": "shift"},
+                  {"type": "character", "content": "я"},
+                  {"type": "character", "content": "ч"},
+                  {"type": "character", "content": "с"},
+                  {"type": "character", "content": "м"},
+                  {"type": "character", "content": "и"},
+                  {"type": "character", "content": "т"},
+                  {"type": "customkey", "id": "trad_soft", "default": {"tap": "ь", "swipeup": "ъ"}},
+                  {"type": "character", "content": "б"},
+                  {"type": "character", "content": "ю"},
+                  {"type": "function", "width": 1.25, "content": "backspace"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "split_emojinumber", "width": 1.25},
+                  {"type": "split", "width": 1.25, "id": "split1"},
+                  {"type": "space", "width": 5},
+                  {"type": "split", "width": 1.25, "id": "split2"},
+                  {"type": "return", "width": 1.25, "content": "return"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "portrait_numbers": {
+        "columns": [
+          {
+            "rows": [
+              {
+                "rowItems": [
+                  {"type": "character", "content": "1"},
+                  {"type": "character", "content": "2"},
+                  {"type": "character", "content": "3"},
+                  {"type": "character", "content": "4"},
+                  {"type": "character", "content": "5"},
+                  {"type": "character", "content": "6"},
+                  {"type": "character", "content": "7"},
+                  {"type": "character", "content": "8"},
+                  {"type": "character", "content": "9"},
+                  {"type": "character", "content": "0"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "customkey", "id": "special_at", "default": {"tap": "@"}},
+                  {"type": "customkey", "id": "special_hash", "default": {"tap": "#"}},
+                  {"type": "customkey", "id": "special_rub", "default": {"tap": "₽", "swipeup": "$", "hold": ["€", "£"]}},
+                  {"type": "customkey", "id": "special_und", "default": {"tap": "_"}},
+                  {"type": "customkey", "id": "special_amp", "default": {"tap": "&"}},
+                  {"type": "customkey", "id": "special_dash", "default": {"tap": "-", "swipeup": "—"}},
+                  {"type": "customkey", "id": "special_plus", "default": {"tap": "+", "swipeup": "="}},
+                  {"type": "customkey", "id": "special_paren1", "default": {"tap": "(", "swipeup": "[", "hold": ["{"]}},
+                  {"type": "customkey", "id": "special_paren2", "default": {"tap": ")", "swipeup": "]", "hold": ["}"]}},
+                  {"type": "customkey", "id": "special_num", "default": {"tap": "№"}}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "function", "width": 1.5, "content": "shift"},
+                  {"type": "customkey", "id": "special_star", "default": {"tap": "*"}},
+                  {"type": "customkey", "id": "special_quote", "default": {"tap": "\"", "swipeup": "'", "hold": ["«", "»"]}},
+                  {"type": "customkey", "id": "special_apos", "default": {"tap": "'"}},
+                  {"type": "customkey", "id": "special_colon", "default": {"tap": ":"}},
+                  {"type": "customkey", "id": "special_semi", "default": {"tap": ";"}},
+                  {"type": "customkey", "id": "special_excl", "default": {"tap": "!"}},
+                  {"type": "customkey", "id": "special_ques", "default": {"tap": "?"}},
+                  {"type": "function", "width": 1.25, "content": "backspace"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "split_morecharacters_mainlayout", "width": 1.25},
+                  {"type": "split", "width": 1.25, "id": "split1"},
+                  {"type": "space", "width": 5},
+                  {"type": "split", "width": 1.25, "id": "split2"},
+                  {"type": "return", "width": 1.25, "content": "return"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "landscape": {
+        "columns": [
+          {
+            "rows": [
+              {
+                "rowItems": [
+                  {"type": "character", "content": "й"},
+                  {"type": "character", "content": "ц"},
+                  {"type": "character", "content": "у"},
+                  {"type": "character", "content": "к"},
+                  {"type": "customkey", "id": "trad_e", "default": {"tap": "е", "swipeup": "ё"}},
+                  {"type": "character", "content": "н"},
+                  {"type": "character", "content": "г"},
+                  {"type": "character", "content": "ш"},
+                  {"type": "character", "content": "щ"},
+                  {"type": "character", "content": "з"},
+                  {"type": "character", "content": "х"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "character", "content": "ф"},
+                  {"type": "character", "content": "ы"},
+                  {"type": "character", "content": "в"},
+                  {"type": "character", "content": "а"},
+                  {"type": "character", "content": "п"},
+                  {"type": "character", "content": "р"},
+                  {"type": "character", "content": "о"},
+                  {"type": "character", "content": "л"},
+                  {"type": "character", "content": "д"},
+                  {"type": "character", "content": "ж"},
+                  {"type": "character", "content": "э"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "function", "width": 1.5, "content": "shift"},
+                  {"type": "character", "content": "я"},
+                  {"type": "character", "content": "ч"},
+                  {"type": "character", "content": "с"},
+                  {"type": "character", "content": "м"},
+                  {"type": "character", "content": "и"},
+                  {"type": "character", "content": "т"},
+                  {"type": "customkey", "id": "trad_soft", "default": {"tap": "ь", "swipeup": "ъ"}},
+                  {"type": "character", "content": "б"},
+                  {"type": "character", "content": "ю"},
+                  {"type": "function", "width": 1.25, "content": "backspace"}
+                ]
+              },
+              {
+                "rowItems": [
+                  {"type": "split_emojinumber", "width": 1.25},
+                  {"type": "split", "width": 1.25, "id": "split1"},
+                  {"type": "space", "width": 5},
+                  {"type": "split", "width": 1.25, "id": "split2"},
+                  {"type": "return", "width": 1.25, "content": "return"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

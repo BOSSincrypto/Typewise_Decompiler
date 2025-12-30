@@ -77,9 +77,9 @@
     <string name="generating_response">Generating response</string>
     <string name="hello_wrio">Hello Typewise</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="home_screen_label">Typewise Offline</string>
+    <string name="home_screen_label">ILboard</string>
     <string name="icon_content_description">Dialog Icon</string>
-    <string name="ime_name">Typewise Offline</string>
+    <string name="ime_name">ILboard</string>
     <string name="inclusive_language">Inclusive language</string>
     <string name="item_view_role_description">Tab</string>
     <string name="keyboard_cards_autocorrecthint_description">Wrong Autocorrection? Then tap to undo. Typewise learns from you.</string>
