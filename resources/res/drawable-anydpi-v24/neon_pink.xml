@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:height="244dp" android:width="375dp" android:viewportWidth="375" android:viewportHeight="244">
+    <path android:fillColor="@drawable/$neon_pink__0" android:pathData="M375,0H0V244H375V0Z"/>
+</vector>
