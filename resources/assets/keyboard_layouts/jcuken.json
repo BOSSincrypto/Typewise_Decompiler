@@ -1,62 +1,250 @@
 {
   "layout": {
-    "traditional": {
+    "hexagon_legacy": {
       "portrait": {
         "columns": [
           {
             "rows": [
               {
                 "rowItems": [
-                  {"type": "character", "content": "й"},
-                  {"type": "character", "content": "ц"},
-                  {"type": "character", "content": "у"},
-                  {"type": "character", "content": "к"},
-                  {"type": "customkey", "id": "trad_e", "default": {"tap": "е", "swipeup": "ё"}},
-                  {"type": "character", "content": "н"},
-                  {"type": "character", "content": "г"},
-                  {"type": "character", "content": "ш"},
-                  {"type": "character", "content": "щ"},
-                  {"type": "character", "content": "з"},
-                  {"type": "character", "content": "х"}
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ц"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum1",
+                    "default": {
+                      "tap": "e",
+                      "swipeup": null,
+                      "hold": [
+                        "1"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum2",
+                    "default": {
+                      "tap": "t",
+                      "swipeup": null,
+                      "hold": [
+                        "2"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum11",
+                    "default": {
+                      "tap": "y",
+                      "swipeup": null,
+                      "hold": [
+                        "3"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum4",
+                    "default": {
+                      "tap": "i",
+                      "swipeup": null,
+                      "hold": [
+                        "4"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "щ"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "character", "content": "ф"},
-                  {"type": "character", "content": "ы"},
-                  {"type": "character", "content": "в"},
-                  {"type": "character", "content": "а"},
-                  {"type": "character", "content": "п"},
-                  {"type": "character", "content": "р"},
-                  {"type": "character", "content": "о"},
-                  {"type": "character", "content": "л"},
-                  {"type": "character", "content": "д"},
-                  {"type": "character", "content": "ж"},
-                  {"type": "character", "content": "э"}
+                  {
+                    "type": "character",
+                    "content": "й"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ф"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum5",
+                    "default": {
+                      "tap": "r",
+                      "swipeup": null,
+                      "hold": [
+                        "5"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum6",
+                    "default": {
+                      "tap": "g",
+                      "swipeup": null,
+                      "hold": [
+                        "6"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum7",
+                    "default": {
+                      "tap": "u",
+                      "swipeup": null,
+                      "hold": [
+                        "7"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "д"
+                  },
+                  {
+                    "type": "character",
+                    "content": "з"
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "function", "width": 1.5, "content": "shift"},
-                  {"type": "character", "content": "я"},
-                  {"type": "character", "content": "ч"},
-                  {"type": "character", "content": "с"},
-                  {"type": "character", "content": "м"},
-                  {"type": "character", "content": "и"},
-                  {"type": "character", "content": "т"},
-                  {"type": "customkey", "id": "trad_soft", "default": {"tap": "ь", "swipeup": "ъ"}},
-                  {"type": "character", "content": "б"},
-                  {"type": "character", "content": "ю"},
-                  {"type": "function", "width": 1.25, "content": "backspace"}
+                  {
+                    "type": "function",
+                    "content": "shift",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "split",
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum8",
+                    "default": {
+                      "tap": "f",
+                      "swipeup": null,
+                      "hold": [
+                        "8"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum9",
+                    "default": {
+                      "tap": "h",
+                      "swipeup": null,
+                      "hold": [
+                        "9"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split2"
+                  },
+                  {
+                    "type": "function",
+                    "content": "backspace",
+                    "width": 0.5
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "split_emojinumber", "width": 1.25},
-                  {"type": "split", "width": 1.25, "id": "split1"},
-                  {"type": "space", "width": 5},
-                  {"type": "split", "width": 1.25, "id": "split2"},
-                  {"type": "return", "width": 1.25, "content": "return"}
+                  {
+                    "type": "character",
+                    "content": "я"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ы"
+                  },
+                  {
+                    "type": "character",
+                    "content": "в"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum9",
+                    "default": {
+                      "tap": "n",
+                      "swipeup": null,
+                      "hold": [
+                        "0"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "ь"
+                  },
+                  {
+                    "type": "character",
+                    "content": "о"
+                  },
+                  {
+                    "type": "character",
+                    "content": "л"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "globe",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ч"
+                  },
+                  {
+                    "type": "character",
+                    "content": "с"
+                  },
+                  {
+                    "type": "character",
+                    "content": "м"
+                  },
+                  {
+                    "type": "character",
+                    "content": "и"
+                  },
+                  {
+                    "type": "split_emojinumber"
+                  },
+                  {
+                    "type": "return",
+                    "content": "return"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
                 ]
               }
             ]
@@ -69,52 +257,252 @@
             "rows": [
               {
                 "rowItems": [
-                  {"type": "character", "content": "1"},
-                  {"type": "character", "content": "2"},
-                  {"type": "character", "content": "3"},
-                  {"type": "character", "content": "4"},
-                  {"type": "character", "content": "5"},
-                  {"type": "character", "content": "6"},
-                  {"type": "character", "content": "7"},
-                  {"type": "character", "content": "8"},
-                  {"type": "character", "content": "9"},
-                  {"type": "character", "content": "0"}
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special1",
+                    "default": {
+                      "tap": "^",
+                      "swipeup": "~"
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "1"
+                  },
+                  {
+                    "type": "character",
+                    "content": "2"
+                  },
+                  {
+                    "type": "character",
+                    "content": "3"
+                  },
+                  {
+                    "type": "character",
+                    "content": "4"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special2",
+                    "default": {
+                      "tap": "<",
+                      "swipeup": ">",
+                      "hold": [
+                        "«",
+                        "»"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "customkey", "id": "special_at", "default": {"tap": "@"}},
-                  {"type": "customkey", "id": "special_hash", "default": {"tap": "#"}},
-                  {"type": "customkey", "id": "special_rub", "default": {"tap": "₽", "swipeup": "$", "hold": ["€", "£"]}},
-                  {"type": "customkey", "id": "special_und", "default": {"tap": "_"}},
-                  {"type": "customkey", "id": "special_amp", "default": {"tap": "&"}},
-                  {"type": "customkey", "id": "special_dash", "default": {"tap": "-", "swipeup": "—"}},
-                  {"type": "customkey", "id": "special_plus", "default": {"tap": "+", "swipeup": "="}},
-                  {"type": "customkey", "id": "special_paren1", "default": {"tap": "(", "swipeup": "[", "hold": ["{"]}},
-                  {"type": "customkey", "id": "special_paren2", "default": {"tap": ")", "swipeup": "]", "hold": ["}"]}},
-                  {"type": "customkey", "id": "special_num", "default": {"tap": "№"}}
+                  {
+                    "type": "customkey",
+                    "id": "special3",
+                    "default": {
+                      "tap": "$",
+                      "swipeup": "€",
+                      "hold": [
+                        "£"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special4",
+                    "default": {
+                      "tap": "+",
+                      "swipeup": "=",
+                      "hold": [
+                        "·"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "5"
+                  },
+                  {
+                    "type": "character",
+                    "content": "6"
+                  },
+                  {
+                    "type": "character",
+                    "content": "7"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special5",
+                    "default": {
+                      "tap": "(",
+                      "swipeup": "[",
+                      "hold": [
+                        "{"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special6",
+                    "default": {
+                      "tap": ")",
+                      "swipeup": "]",
+                      "hold": [
+                        "}"
+                      ]
+                    }
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "function", "width": 1.5, "content": "shift"},
-                  {"type": "customkey", "id": "special_star", "default": {"tap": "*"}},
-                  {"type": "customkey", "id": "special_quote", "default": {"tap": "\"", "swipeup": "'", "hold": ["«", "»"]}},
-                  {"type": "customkey", "id": "special_apos", "default": {"tap": "'"}},
-                  {"type": "customkey", "id": "special_colon", "default": {"tap": ":"}},
-                  {"type": "customkey", "id": "special_semi", "default": {"tap": ";"}},
-                  {"type": "customkey", "id": "special_excl", "default": {"tap": "!"}},
-                  {"type": "customkey", "id": "special_ques", "default": {"tap": "?"}},
-                  {"type": "function", "width": 1.25, "content": "backspace"}
+                  {
+                    "type": "function",
+                    "content": "shift",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "split",
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "character",
+                    "content": "8"
+                  },
+                  {
+                    "type": "character",
+                    "content": "9"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split2"
+                  },
+                  {
+                    "type": "function",
+                    "content": "backspace",
+                    "width": 0.5
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "split_morecharacters_mainlayout", "width": 1.25},
-                  {"type": "split", "width": 1.25, "id": "split1"},
-                  {"type": "space", "width": 5},
-                  {"type": "split", "width": 1.25, "id": "split2"},
-                  {"type": "return", "width": 1.25, "content": "return"}
+                  {
+                    "type": "customkey",
+                    "id": "special7",
+                    "default": {
+                      "tap": "§",
+                      "swipeup": "°"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special8",
+                    "default": {
+                      "tap": "-",
+                      "swipeup": "—"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special9",
+                    "default": {
+                      "tap": "_"
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "0"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special10",
+                    "default": {
+                      "tap": "*",
+                      "swipeup": "`"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special11",
+                    "default": {
+                      "tap": "/",
+                      "swipeup": "|",
+                      "hold": [
+                        "\\"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special12",
+                    "default": {
+                      "tap": "¿",
+                      "swipeup": "¡"
+                    }
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "globe",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special13",
+                    "default": {
+                      "tap": "&"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special14",
+                    "default": {
+                      "tap": "%"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special15",
+                    "default": {
+                      "tap": "@"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special16",
+                    "default": {
+                      "tap": "#"
+                    }
+                  },
+                  {
+                    "type": "split_morecharacters_mainlayout"
+                  },
+                  {
+                    "type": "return",
+                    "content": "return"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
                 ]
               }
             ]
@@ -122,61 +510,2225 @@
         ]
       },
       "landscape": {
+        "maxHeight": 0.5,
+        "columns": [
+          {
+            "alignment": "left",
+            "maxWidth": 0.3,
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ц"
+                  },
+                  {
+                    "type": "character",
+                    "content": "у"
+                  },
+                  {
+                    "type": "character",
+                    "content": "е"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "й"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ф"
+                  },
+                  {
+                    "type": "character",
+                    "content": "к"
+                  },
+                  {
+                    "type": "character",
+                    "content": "п"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "shift",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "split",
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "character",
+                    "content": "а"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "я"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ы"
+                  },
+                  {
+                    "type": "character",
+                    "content": "в"
+                  },
+                  {
+                    "type": "character",
+                    "content": "т"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "globe",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ч"
+                  },
+                  {
+                    "type": "character",
+                    "content": "с"
+                  },
+                  {
+                    "type": "character",
+                    "content": "м"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "alignment": "right",
+            "maxWidth": 0.3,
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "н"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ш"
+                  },
+                  {
+                    "type": "character",
+                    "content": "щ"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "п"
+                  },
+                  {
+                    "type": "character",
+                    "content": "г"
+                  },
+                  {
+                    "type": "character",
+                    "content": "д"
+                  },
+                  {
+                    "type": "character",
+                    "content": "з"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "р"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split2"
+                  },
+                  {
+                    "type": "function",
+                    "content": "backspace",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "т"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ь"
+                  },
+                  {
+                    "type": "character",
+                    "content": "о"
+                  },
+                  {
+                    "type": "character",
+                    "content": "л"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "и"
+                  },
+                  {
+                    "type": "split_emojinumber"
+                  },
+                  {
+                    "type": "return",
+                    "content": "return"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "hexagon": {
+      "portrait": {
         "columns": [
           {
             "rows": [
               {
                 "rowItems": [
-                  {"type": "character", "content": "й"},
-                  {"type": "character", "content": "ц"},
-                  {"type": "character", "content": "у"},
-                  {"type": "character", "content": "к"},
-                  {"type": "customkey", "id": "trad_e", "default": {"tap": "е", "swipeup": "ё"}},
-                  {"type": "character", "content": "н"},
-                  {"type": "character", "content": "г"},
-                  {"type": "character", "content": "ш"},
-                  {"type": "character", "content": "щ"},
-                  {"type": "character", "content": "з"},
-                  {"type": "character", "content": "х"}
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ц"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum1",
+                    "default": {
+                      "tap": "e",
+                      "swipeup": null,
+                      "hold": [
+                        "1"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum2",
+                    "default": {
+                      "tap": "t",
+                      "swipeup": null,
+                      "hold": [
+                        "2"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum11",
+                    "default": {
+                      "tap": "y",
+                      "swipeup": null,
+                      "hold": [
+                        "3"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum4",
+                    "default": {
+                      "tap": "i",
+                      "swipeup": null,
+                      "hold": [
+                        "4"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "щ"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "character", "content": "ф"},
-                  {"type": "character", "content": "ы"},
-                  {"type": "character", "content": "в"},
-                  {"type": "character", "content": "а"},
-                  {"type": "character", "content": "п"},
-                  {"type": "character", "content": "р"},
-                  {"type": "character", "content": "о"},
-                  {"type": "character", "content": "л"},
-                  {"type": "character", "content": "д"},
-                  {"type": "character", "content": "ж"},
-                  {"type": "character", "content": "э"}
+                  {
+                    "type": "character",
+                    "content": "й"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ы"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum5",
+                    "default": {
+                      "tap": "r",
+                      "swipeup": null,
+                      "hold": [
+                        "5"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum6",
+                    "default": {
+                      "tap": "g",
+                      "swipeup": null,
+                      "hold": [
+                        "6"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum7",
+                    "default": {
+                      "tap": "u",
+                      "swipeup": null,
+                      "hold": [
+                        "7"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "л"
+                  },
+                  {
+                    "type": "character",
+                    "content": "з"
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "function", "width": 1.5, "content": "shift"},
-                  {"type": "character", "content": "я"},
-                  {"type": "character", "content": "ч"},
-                  {"type": "character", "content": "с"},
-                  {"type": "character", "content": "м"},
-                  {"type": "character", "content": "и"},
-                  {"type": "character", "content": "т"},
-                  {"type": "customkey", "id": "trad_soft", "default": {"tap": "ь", "swipeup": "ъ"}},
-                  {"type": "character", "content": "б"},
-                  {"type": "character", "content": "ю"},
-                  {"type": "function", "width": 1.25, "content": "backspace"}
+                  {
+                    "type": "function",
+                    "content": "shift",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ф"
+                  },
+                  {
+                    "type": "character",
+                    "content": "в"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum8",
+                    "default": {
+                      "tap": "f",
+                      "swipeup": null,
+                      "hold": [
+                        "8"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum9",
+                    "default": {
+                      "tap": "h",
+                      "swipeup": null,
+                      "hold": [
+                        "9"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "о"
+                  },
+                  {
+                    "type": "character",
+                    "content": "д"
+                  },
+                  {
+                    "type": "function",
+                    "content": "backspace",
+                    "width": 0.5
+                  }
                 ]
               },
               {
                 "rowItems": [
-                  {"type": "split_emojinumber", "width": 1.25},
-                  {"type": "split", "width": 1.25, "id": "split1"},
-                  {"type": "space", "width": 5},
-                  {"type": "split", "width": 1.25, "id": "split2"},
-                  {"type": "return", "width": 1.25, "content": "return"}
+                  {
+                    "type": "character",
+                    "content": "я"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ч"
+                  },
+                  {
+                    "type": "character",
+                    "content": "с"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "hexnum12",
+                    "default": {
+                      "tap": "v",
+                      "swipeup": null,
+                      "hold": [
+                        "0"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "и"
+                  },
+                  {
+                    "type": "character",
+                    "content": "т"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ь"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "globe",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "split_emojinumber"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split2"
+                  },
+                  {
+                    "type": "return",
+                    "content": "return"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "portrait_numbers": {
+        "columns": [
+          {
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special1",
+                    "default": {
+                      "tap": "^",
+                      "swipeup": "~"
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "1"
+                  },
+                  {
+                    "type": "character",
+                    "content": "2"
+                  },
+                  {
+                    "type": "character",
+                    "content": "3"
+                  },
+                  {
+                    "type": "character",
+                    "content": "4"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special2",
+                    "default": {
+                      "tap": "<",
+                      "swipeup": ">",
+                      "hold": [
+                        "«",
+                        "»"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "customkey",
+                    "id": "special3",
+                    "default": {
+                      "tap": "$",
+                      "swipeup": "€",
+                      "hold": [
+                        "£"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special4",
+                    "default": {
+                      "tap": "+",
+                      "swipeup": "=",
+                      "hold": [
+                        "·"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "5"
+                  },
+                  {
+                    "type": "character",
+                    "content": "6"
+                  },
+                  {
+                    "type": "character",
+                    "content": "7"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special5",
+                    "default": {
+                      "tap": "(",
+                      "swipeup": "[",
+                      "hold": [
+                        "{"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special6",
+                    "default": {
+                      "tap": ")",
+                      "swipeup": "]",
+                      "hold": [
+                        "}"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "shift",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special7",
+                    "default": {
+                      "tap": "&"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special8",
+                    "default": {
+                      "tap": "%"
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "8"
+                  },
+                  {
+                    "type": "character",
+                    "content": "9"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special9",
+                    "default": {
+                      "tap": "#"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special10",
+                    "default": {
+                      "tap": "@"
+                    }
+                  },
+                  {
+                    "type": "function",
+                    "content": "backspace",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "customkey",
+                    "id": "special11",
+                    "default": {
+                      "tap": "§",
+                      "swipeup": "°"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special12",
+                    "default": {
+                      "tap": "-",
+                      "swipeup": "—"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special13",
+                    "default": {
+                      "tap": "_"
+                    }
+                  },
+                  {
+                    "type": "character",
+                    "content": "0"
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special14",
+                    "default": {
+                      "tap": "*",
+                      "swipeup": "`"
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special15",
+                    "default": {
+                      "tap": "/",
+                      "swipeup": "|",
+                      "hold": [
+                        "\\"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "special16",
+                    "default": {
+                      "tap": "¿",
+                      "swipeup": "¡"
+                    }
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "globe",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "split_morecharacters_mainlayout"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split2"
+                  },
+                  {
+                    "type": "return",
+                    "content": "return"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "landscape": {
+        "maxHeight": 0.5,
+        "columns": [
+          {
+            "alignment": "left",
+            "maxWidth": 0.3,
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ц"
+                  },
+                  {
+                    "type": "character",
+                    "content": "у"
+                  },
+                  {
+                    "type": "character",
+                    "content": "е"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "й"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ы"
+                  },
+                  {
+                    "type": "character",
+                    "content": "к"
+                  },
+                  {
+                    "type": "character",
+                    "content": "п"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "shift",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "ф"
+                  },
+                  {
+                    "type": "character",
+                    "content": "в"
+                  },
+                  {
+                    "type": "character",
+                    "content": "а"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "я"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ч"
+                  },
+                  {
+                    "type": "character",
+                    "content": "с"
+                  },
+                  {
+                    "type": "character",
+                    "content": "м"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "content": "globe",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "split_emojinumber"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "alignment": "right",
+            "maxWidth": 0.3,
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "н"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ш"
+                  },
+                  {
+                    "type": "character",
+                    "content": "щ"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "п"
+                  },
+                  {
+                    "type": "character",
+                    "content": "г"
+                  },
+                  {
+                    "type": "character",
+                    "content": "л"
+                  },
+                  {
+                    "type": "character",
+                    "content": "з"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "content": "р"
+                  },
+                  {
+                    "type": "character",
+                    "content": "о"
+                  },
+                  {
+                    "type": "character",
+                    "content": "д"
+                  },
+                  {
+                    "type": "function",
+                    "content": "backspace",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "content": "м"
+                  },
+                  {
+                    "type": "character",
+                    "content": "и"
+                  },
+                  {
+                    "type": "character",
+                    "content": "т"
+                  },
+                  {
+                    "type": "character",
+                    "content": "ь"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "space"
+                  },
+                  {
+                    "type": "split",
+                    "id": "split2"
+                  },
+                  {
+                    "type": "return",
+                    "content": "return"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "rectangle": {
+      "portrait": {
+        "defaultKeyHeight": 50,
+        "columns": [
+          {
+            "alignment": "center",
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "customkey",
+                    "id": "keynum1",
+                    "width": 1,
+                    "default": {
+                      "tap": "q",
+                      "swipeup": null,
+                      "hold": [
+                        "1"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum2",
+                    "width": 1,
+                    "default": {
+                      "tap": "w",
+                      "swipeup": null,
+                      "hold": [
+                        "2"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum3",
+                    "width": 1,
+                    "default": {
+                      "tap": "e",
+                      "swipeup": null,
+                      "hold": [
+                        "3"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum4",
+                    "width": 1,
+                    "default": {
+                      "tap": "r",
+                      "swipeup": null,
+                      "hold": [
+                        "4"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum5",
+                    "width": 1,
+                    "default": {
+                      "tap": "t",
+                      "swipeup": null,
+                      "hold": [
+                        "5"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum6",
+                    "width": 1,
+                    "default": {
+                      "tap": "y",
+                      "swipeup": null,
+                      "hold": [
+                        "6"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum7",
+                    "width": 1,
+                    "default": {
+                      "tap": "u",
+                      "swipeup": null,
+                      "hold": [
+                        "7"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum8",
+                    "width": 1,
+                    "default": {
+                      "tap": "i",
+                      "swipeup": null,
+                      "hold": [
+                        "8"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum9",
+                    "width": 1,
+                    "default": {
+                      "tap": "o",
+                      "swipeup": null,
+                      "hold": [
+                        "9"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum0",
+                    "width": 1,
+                    "default": {
+                      "tap": "p",
+                      "swipeup": null,
+                      "hold": [
+                        "0"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ф"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ы"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "в"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "а"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "п"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "р"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "о"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "л"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "д"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "width": 1.25,
+                    "content": "shift"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "я"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ч"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "с"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "м"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "и"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "т"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ь"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "function",
+                    "width": 1.25,
+                    "content": "backspace"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "split_emojinumber",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "split",
+                    "width": 1.25,
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space",
+                    "width": 5
+                  },
+                  {
+                    "type": "split",
+                    "width": 1.25,
+                    "id": "split2"
+                  },
+                  {
+                    "type": "return",
+                    "width": 1.25,
+                    "content": "return"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "numbers": {
+        "defaultKeyHeight": 50,
+        "columns": [
+          {
+            "alignment": "center",
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "1"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "2"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "3"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "4"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "5"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "6"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "7"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "8"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "9"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "0"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers1",
+                    "width": 1,
+                    "default": {
+                      "tap": "-",
+                      "swipeup": "–",
+                      "hold": [
+                        "_"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers2",
+                    "width": 1,
+                    "default": {
+                      "tap": "/",
+                      "swipeup": null,
+                      "hold": [
+                        "\""
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers3",
+                    "width": 1,
+                    "default": {
+                      "tap": ":",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers4",
+                    "width": 1,
+                    "default": {
+                      "tap": ";",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers5",
+                    "width": 1,
+                    "default": {
+                      "tap": "(",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers6",
+                    "width": 1,
+                    "default": {
+                      "tap": ")",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers7",
+                    "width": 1,
+                    "default": {
+                      "tap": "&",
+                      "swipeup": null,
+                      "hold": [
+                        "§"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers8",
+                    "width": 1,
+                    "default": {
+                      "tap": "@",
+                      "swipeup": null,
+                      "hold": [
+                        "§"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers9",
+                    "width": 1,
+                    "default": {
+                      "tap": "%",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "moremaths",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers10",
+                    "width": 1,
+                    "default": {
+                      "tap": ".",
+                      "swipeup": null,
+                      "hold": [
+                        "…"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers11",
+                    "width": 1,
+                    "default": {
+                      "tap": ",",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers12",
+                    "width": 1,
+                    "default": {
+                      "tap": "„",
+                      "swipeup": null,
+                      "hold": [
+                        "‚",
+                        "»",
+                        "›",
+                        "“",
+                        "‘"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers15",
+                    "width": 1,
+                    "default": {
+                      "tap": "?",
+                      "swipeup": null,
+                      "hold": [
+                        "¿"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers13",
+                    "width": 1,
+                    "default": {
+                      "tap": "\"",
+                      "swipeup": null,
+                      "hold": [
+                        "‘",
+                        "«",
+                        "‹",
+                        "”",
+                        "’"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers14",
+                    "width": 1,
+                    "default": {
+                      "tap": "'",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers16",
+                    "width": 1,
+                    "default": {
+                      "tap": "!",
+                      "swipeup": null,
+                      "hold": [
+                        "¡"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "function",
+                    "width": 1.25,
+                    "content": "backspace"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "mainlayout",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "emoji",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "space",
+                    "width": 5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "shopnomix1",
+                    "width": 1.25,
+                    "default": {
+                      "tap": ".",
+                      "swipeup": null,
+                      "hold": [
+                        "!",
+                        "?",
+                        ":",
+                        ","
+                      ]
+                    }
+                  },
+                  {
+                    "type": "return",
+                    "width": 1.25,
+                    "content": "return"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "math": {
+        "defaultKeyHeight": 50,
+        "columns": [
+          {
+            "alignment": "center",
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "customkey",
+                    "id": "numbers17",
+                    "width": 1,
+                    "default": {
+                      "tap": "[",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers18",
+                    "width": 1,
+                    "default": {
+                      "tap": "]",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers19",
+                    "width": 1,
+                    "default": {
+                      "tap": "{",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers20",
+                    "width": 1,
+                    "default": {
+                      "tap": "}",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers21",
+                    "width": 1,
+                    "default": {
+                      "tap": "#",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers22",
+                    "width": 1,
+                    "default": {
+                      "tap": "%",
+                      "swipeup": null,
+                      "hold": [
+                        "‰"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers23",
+                    "width": 1,
+                    "default": {
+                      "tap": "^",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers24",
+                    "width": 1,
+                    "default": {
+                      "tap": "*",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers36",
+                    "width": 1,
+                    "default": {
+                      "tap": "+",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers25",
+                    "width": 1,
+                    "default": {
+                      "tap": "=",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers26",
+                    "width": 1,
+                    "default": {
+                      "tap": "_",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers27",
+                    "width": 1,
+                    "default": {
+                      "tap": "\\",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers37",
+                    "width": 1,
+                    "default": {
+                      "tap": "|",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers28",
+                    "width": 1,
+                    "default": {
+                      "tap": "~",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers29",
+                    "width": 1,
+                    "default": {
+                      "tap": "<",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers29",
+                    "width": 1,
+                    "default": {
+                      "tap": ">",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "currency1",
+                    "width": 1,
+                    "default": {
+                      "tap": "$",
+                      "swipeup": null,
+                      "hold": [
+                        "¥",
+                        "¢",
+                        "₽",
+                        "₱",
+                        "₺",
+                        "₴"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "currency1",
+                    "width": 1,
+                    "default": {
+                      "tap": "£",
+                      "swipeup": null,
+                      "hold": [
+                        "₦",
+                        "₹",
+                        "₩",
+                        "฿",
+                        "₫"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "currency1",
+                    "width": 1,
+                    "default": {
+                      "tap": "€",
+                      "swipeup": null,
+                      "hold": [
+                        "₪",
+                        "Ł",
+                        "Ξ",
+                        "₿",
+                        "ɱ"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "morenumbers",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers30",
+                    "width": 1,
+                    "default": {
+                      "tap": "×",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers31",
+                    "width": 1,
+                    "default": {
+                      "tap": "÷",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers32",
+                    "width": 1,
+                    "default": {
+                      "tap": "≠",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers33",
+                    "width": 1,
+                    "default": {
+                      "tap": "π",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers34",
+                    "width": 1,
+                    "default": {
+                      "tap": "∞",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers35",
+                    "width": 1,
+                    "default": {
+                      "tap": "‰",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "numbers16",
+                    "width": 1,
+                    "default": {
+                      "tap": "!",
+                      "swipeup": null,
+                      "hold": null
+                    }
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "function",
+                    "width": 1.25,
+                    "content": "backspace"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "mainlayout",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "emoji",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "space",
+                    "width": 5
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "shopnomix1",
+                    "width": 1.25,
+                    "default": {
+                      "tap": ".",
+                      "swipeup": null,
+                      "hold": [
+                        "!",
+                        "?",
+                        ":",
+                        ","
+                      ]
+                    }
+                  },
+                  {
+                    "type": "return",
+                    "width": 1.25,
+                    "content": "return"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "landscape": {
+        "defaultKeyHeight": 50,
+        "columns": [
+          {
+            "rows": [
+              {
+                "rowItems": [
+                  {
+                    "type": "customkey",
+                    "id": "keynum1",
+                    "width": 1,
+                    "default": {
+                      "tap": "q",
+                      "swipeup": null,
+                      "hold": [
+                        "1"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum2",
+                    "width": 1,
+                    "default": {
+                      "tap": "w",
+                      "swipeup": null,
+                      "hold": [
+                        "2"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum3",
+                    "width": 1,
+                    "default": {
+                      "tap": "e",
+                      "swipeup": null,
+                      "hold": [
+                        "3"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum4",
+                    "width": 1,
+                    "default": {
+                      "tap": "r",
+                      "swipeup": null,
+                      "hold": [
+                        "4"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum5",
+                    "width": 1,
+                    "default": {
+                      "tap": "t",
+                      "swipeup": null,
+                      "hold": [
+                        "5"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum6",
+                    "width": 1,
+                    "default": {
+                      "tap": "y",
+                      "swipeup": null,
+                      "hold": [
+                        "6"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum7",
+                    "width": 1,
+                    "default": {
+                      "tap": "u",
+                      "swipeup": null,
+                      "hold": [
+                        "7"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum8",
+                    "width": 1,
+                    "default": {
+                      "tap": "i",
+                      "swipeup": null,
+                      "hold": [
+                        "8"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum9",
+                    "width": 1,
+                    "default": {
+                      "tap": "o",
+                      "swipeup": null,
+                      "hold": [
+                        "9"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "customkey",
+                    "id": "keynum0",
+                    "width": 1,
+                    "default": {
+                      "tap": "p",
+                      "swipeup": null,
+                      "hold": [
+                        "0"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ф"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ы"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "в"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "а"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "п"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "р"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "о"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "л"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "д"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.5
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "function",
+                    "width": 1.25,
+                    "content": "shift"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "я"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ч"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "с"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "м"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "и"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "т"
+                  },
+                  {
+                    "type": "character",
+                    "width": 1,
+                    "content": "ь"
+                  },
+                  {
+                    "type": "empty",
+                    "width": 0.25
+                  },
+                  {
+                    "type": "function",
+                    "width": 1.25,
+                    "content": "backspace"
+                  }
+                ]
+              },
+              {
+                "rowItems": [
+                  {
+                    "type": "split_emojinumber",
+                    "width": 1.25
+                  },
+                  {
+                    "type": "split",
+                    "width": 1.25,
+                    "id": "split1"
+                  },
+                  {
+                    "type": "space",
+                    "width": 5
+                  },
+                  {
+                    "type": "split",
+                    "width": 1.25,
+                    "id": "split2"
+                  },
+                  {
+                    "type": "return",
+                    "width": 1.25,
+                    "content": "return"
+                  }
                 ]
               }
             ]
